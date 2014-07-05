@@ -1,0 +1,14 @@
+base
+bitops
+data.table
+digest
+dplyr
+extrafont
+ggplot2
+graphZoo
+gridExtra
+RCurl
+rjson
+ROAuth
+twitteR
+yaml

@@ -1,0 +1,62 @@
+---
+title: "Notebook"
+author: "Simon Garnier"
+date: "July 5, 2014"
+output:
+  html_document:
+    css: custom.css
+    fig_caption: yes
+    fig_width: 5
+    number_sections: yes
+    theme: cosmo
+    toc: yes
+---
+
+---
+
+**Project name:** Social media use by US congress members
+
+**Participants:** Simon Garnier (<garnier@njit.edu>)
+
+**Brief description**: TODO
+
+---
+
+```{r, 'init', include=FALSE}
+source("notebook_chunks/1_libraries.R")
+source("notebook_chunks/2_load_data.R")
+```
+
+# Most active US Congress members on Twitter
+```{r, 'most.active', cache=TRUE, echo=FALSE, message=FALSE, warning=FALSE, fig.align='center', fig.width=7, fig.height=10, out.width=500, out.height=500*10/7}
+source("notebook_chunks/3_most_active.R")
+```
+
+[Back to top]("#")
+
+---
+
+# Senate vs House
+```{r, 'senate.vs.house', cache=TRUE, echo=FALSE, message=FALSE, warning=FALSE, fig.align='center', fig.width=7, fig.height=7, out.width=500, out.height=500}
+source("notebook_chunks/4_senate_vs_house.R")
+```
+
+[Back to top]("#")
+
+---
+
+# Democrats vs Republicans
+```{r, 'democrats.vs.republicans', cache=TRUE, echo=FALSE, message=FALSE, warning=FALSE, fig.align='center', fig.width=7, fig.height=7, out.width=500, out.height=500}
+source("notebook_chunks/5_democrats_vs_republicans.R")
+```
+
+[Back to top]("#")
+
+---
+
+# Women vs Men
+```{r, 'women.vs.men', cache=TRUE, echo=FALSE, message=FALSE, warning=FALSE, fig.align='center', fig.width=7, fig.height=7, out.width=500, out.height=500}
+source("notebook_chunks/6_women_vs_men.R")
+```
+
+[Back to top]("#")
