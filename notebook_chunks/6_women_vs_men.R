@@ -22,7 +22,7 @@ print(g1)
 g2 <- ggplot(legislator,
              aes(x = tweets, fill = gender)) +
   geom_density(alpha = .25, adjust = 1) + 
-  ylab("Density") + xlab("Total number of tweets since joining") +
+  ylab("Density") + xlab("Total number of tweets since joining Twitter") +
   ggtitle(bquote(atop("Total Twitter activity", 
                       atop("in the current US Congress - Women vs Men")))) +
   theme_graphzoo(base_size = 13, family = "Droid Sans Mono") + 
@@ -42,7 +42,7 @@ print(g2)
 g3 <- ggplot(legislator,
              aes(x = (tweets / days) * 7, fill = gender)) +
   geom_density(alpha = .25, adjust = 1) + 
-  ylab("Density") + xlab("Average number of tweets per week since joining") +
+  ylab("Density") + xlab("Average number of tweets per week since joining Twitter") +
   ggtitle(bquote(atop("Weekly Twitter activity", 
                       atop("in the current US Congress - Women vs Men")))) +
   theme_graphzoo(base_size = 13, family = "Droid Sans Mono") + 

@@ -36,7 +36,7 @@ g2 <- ggplot(data = tmp,
                  fill = party)) +
   geom_bar(stat = "identity", color = "white") +
   coord_flip() + 
-  ylab("Total number of tweets\nsince joining") + 
+  ylab("Total number of tweets\nsince joining Twitter") + 
   ggtitle(bquote(atop("Most active Twitter users", 
                       atop("in the current US Congress")))) +
   theme_graphzoo(base_size = 13, family = "Droid Sans Mono") + 
@@ -64,7 +64,7 @@ g3 <- ggplot(data = tmp,
                  fill = party)) +
   geom_bar(stat = "identity", color = "white") +
   coord_flip() + 
-  ylab("Average number of tweets per week\nsince joining") + 
+  ylab("Average number of tweets per week\nsince joining Twitter") + 
   ggtitle(bquote(atop("Most active Twitter users", 
                       atop("in the current US Congress")))) +
   theme_graphzoo(base_size = 13, family = "Droid Sans Mono") + 
