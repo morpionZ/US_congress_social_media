@@ -7,7 +7,7 @@ g1 <- ggplot(legislator,
   scale_x_date(breaks = date_breaks("year"), 
                labels = date_format('%Y')) +
   ylab("Count (per 2 months)") + xlab(NULL) +
-  ggtitle(bquote(atop("When did current US congress members joined Twitter?", 
+  ggtitle(bquote(atop("When did current US Congress members joined Twitter?", 
                       atop("")))) +
   theme_graphzoo(base_size = 16, family = "Droid Sans Mono") 
 
