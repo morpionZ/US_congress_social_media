@@ -10,5 +10,6 @@ gridExtra
 RCurl
 rjson
 ROAuth
+scales
 twitteR
 yaml

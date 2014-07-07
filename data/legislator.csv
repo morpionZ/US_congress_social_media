@@ -1,535 +1,535 @@
-"twitter","id","name","age","gender","party","type","state","days","tweets","followers","following"
-NA,"A000368","Kelly Ayotte",46,"F","Republican","sen","NH",NA,NA,NA,NA
-NA,"B001245","Madeleine Bordallo",81,"F","Democrat","rep","GU",NA,NA,NA,NA
-NA,"C001037","Michael Capuano",62,"M","Democrat","rep","MA",NA,NA,NA,NA
-NA,"C001049","Wm. Clay",57,"M","Democrat","rep","MO",NA,NA,NA,NA
-NA,"C001075","Bill Cassidy",56,"M","Republican","rep","LA",NA,NA,NA,NA
-NA,"D000604","Charles Dent",54,"M","Republican","rep","PA",NA,NA,NA,NA
-NA,"F000457","Alan Franken",63,"M","Democrat","sen","MN",NA,NA,NA,NA
-NA,"G000546","Sam Graves",50,"M","Republican","rep","MO",NA,NA,NA,NA
-NA,"G000555","Kirsten Gillibrand",47,"F","Democrat","sen","NY",NA,NA,NA,NA
-NA,"H001032","Rush Holt",65,"M","Democrat","rep","NJ",NA,NA,NA,NA
-NA,"K000367","Amy Klobuchar",54,"F","Democrat","sen","MN",NA,NA,NA,NA
-NA,"M000689","John Mica",71,"M","Republican","rep","FL",NA,NA,NA,NA
-NA,"M001144","Jeff Miller",55,"M","Republican","rep","FL",NA,NA,NA,NA
-NA,"P000265","Thomas Petri",74,"M","Republican","rep","WI",NA,NA,NA,NA
-NA,"R000011","Nick Rahall",65,"M","Democrat","rep","WV",NA,NA,NA,NA
-NA,"S001162","Allyson Schwartz",65,"F","Democrat","rep","PA",NA,NA,NA,NA
-NA,"S001177","Gregorio Sablan",59,"M","Democrat","rep","MP",NA,NA,NA,NA
-NA,"V000127","David Vitter",53,"M","Republican","sen","LA",NA,NA,NA,NA
-NA,"W000795","Joe Wilson",66,"M","Republican","rep","SC",NA,NA,NA,NA
-NA,"W000810","Rob Woodall",44,"M","Republican","rep","GA",NA,NA,NA,NA
-"AnderCrenshaw","C001045","Ander Crenshaw",69,"M","Republican","rep","FL",1975,697,7780,198
-"AskGeorge","M000725","George Miller",69,"M","Democrat","rep","CA",2553,2378,12163,656
-"AustinScottGA08","S001189","Austin Scott",44,"M","Republican","rep","GA",1276,1270,6858,321
-"BachusAL06","B000013","Spencer Bachus",66,"M","Republican","rep","AL",1740,497,8122,2
-"BennieGThompson","T000193","Bennie Thompson",66,"M","Democrat","rep","MS",1725,306,4043,389
-"BettyMcCollum04","M001143","Betty McCollum",60,"F","Democrat","rep","MN",851,2277,5075,760
-"BillOwensNY","O000169","William Owens",65,"M","Democrat","rep","NY",1298,1891,4309,884
-"BillPascrell","P000096","Bill Pascrell",77,"M","Democrat","rep","NJ",1754,752,3700,0
-"BlumenauerMedia","B000574","Earl Blumenauer",65,"M","Democrat","rep","OR",1530,352,2657,251
-"BobLatta","L000566","Robert Latta",58,"M","Republican","rep","OH",2185,4325,13808,5401
-"BradSherman","S000344","Brad Sherman",59,"M","Democrat","rep","CA",1912,431,6396,97
-"BruceBraley","B001259","Bruce Braley",56,"M","Democrat","rep","IA",1916,5307,16278,10998
-"BuckMcKeon","M000508","Howard McKeon",75,"M","Republican","rep","CA",2116,1372,13019,5147
-"CBRangel","R000053","Charles Rangel",84,"M","Democrat","rep","NY",1962,3545,19191,3880
-"Call_Me_Dutch","R000576","C. Ruppersberger",68,"M","Democrat","rep","MD",1136,1371,4323,1082
-"CandiceMiller","M001150","Candice Miller",60,"F","Republican","rep","MI",2196,517,8650,407
-"CantwellPress","C000127","Maria Cantwell",55,"F","Democrat","sen","WA",1591,867,10124,0
-"CathyMcMorris","M001159","Cathy McMorris Rodgers",45,"F","Republican","rep","WA",2035,3443,21429,5134
-"ChakaFattah","F000043","Chaka Fattah",57,"M","Democrat","rep","PA",1844,8673,9646,1267
-"ChelliePingree","P000597","Chellie Pingree",59,"F","Democrat","rep","ME",2224,1198,10499,339
-"ChrisMurphyCT","M001169","Christopher Murphy",40,"M","Democrat","sen","CT",1496,4264,21723,114
-"ChrisVanHollen","V000128","Chris Van Hollen",55,"M","Democrat","rep","MD",2028,953,19391,2351
-"ChuckGrassley","G000386","Charles Grassley",80,"M","Republican","sen","IA",2413,3133,76947,14695
-"ChuckSchumer","S000148","Charles Schumer",63,"M","Democrat","sen","NY",292,84,1542,0
-"Clyburn","C000537","James Clyburn",74,"M","Democrat","rep","SC",1397,782,23591,1028
-"ConawayTX11","C001062","K. Conaway",66,"M","Republican","rep","TX",1153,564,4022,1433
-"CongBillPosey","P000599","Bill Posey",66,"M","Republican","rep","FL",1935,1094,8129,930
-"CongCulberson","C001048","John Culberson",57,"M","Republican","rep","TX",1940,1002,6070,567
-"CongHuelskamp","H001057","Tim Huelskamp",45,"M","Republican","rep","KS",1278,4221,10480,2142
-"CongMikeSimpson","S001148","Michael Simpson",63,"M","Republican","rep","ID",1748,280,3119,64
-"CongPalazzo","P000601","Steven Palazzo",44,"M","Republican","rep","MS",1146,1180,5512,1600
-"CongressmanDan","B001271","Dan Benishek",62,"M","Republican","rep","MI",1257,287,8747,7604
-"CongressmanGT","T000467","Glenn Thompson",54,"M","Republican","rep","PA",1998,3360,8973,391
-"CongressmanRuiz","R000599","Raul Ruiz",41,"M","Democrat","rep","CA",537,148,1950,1
-"CynthiaLummis","L000571","Cynthia Lummis",59,"F","Republican","rep","WY",1949,1196,9634,6177
-"DarrellIssa","I000056","Darrell Issa",60,"M","Republican","rep","CA",1951,17587,160843,37878
-"DaveLoebsack","L000565","David Loebsack",61,"M","Democrat","rep","IA",856,311,2119,519
-"DaveReichert","R000578","David Reichert",63,"M","Republican","rep","WA",2132,1603,9084,3060
-"DelegateDonna","C000380","Donna Christensen",68,"F","Democrat","rep","VI",1213,986,5315,242
-"DesJarlaisTN04","D000616","Scott DesJarlais",50,"M","Republican","rep","TN",1275,2136,6470,1121
-"DocHastings","H000329","Doc Hastings",73,"M","Republican","rep","WA",978,810,3582,651
-"DorisMatsui","M001163","Doris Matsui",69,"F","Democrat","rep","CA",1886,1023,8659,6237
-"DrPhilRoe","R000582","David Roe",69,"M","Republican","rep","TN",1831,1413,8117,204
-"EFaleomavaega","F000010","Eni Faleomavaega",70,"M","Democrat","rep","AS",362,0,81,0
-"EleanorNorton","N000147","Eleanor Norton",77,"F","Democrat","rep","DC",1943,1129,12525,161
-"Farenthold","F000460","Blake Farenthold",52,"M","Republican","rep","TX",2038,3471,6627,863
-"FrankPallone","P000034","Frank Pallone",62,"M","Democrat","rep","NJ",1906,5271,12806,520
-"GKButterfield","B001251","George Butterfield",67,"M","Democrat","rep","NC",939,816,3704,302
-"GOPLeader","C001046","Eric Cantor",51,"M","Republican","rep","VA",2000,7467,225381,8909
-"GOPWhip","M001165","Kevin McCarthy",49,"M","Republican","rep","CA",1983,4667,50465,1204
-"GerryConnolly","C001078","Gerald Connolly",64,"M","Democrat","rep","VA",1740,2819,6780,190
-"GraceNapolitano","N000179","Grace Napolitano",77,"F","Democrat","rep","CA",1466,856,6730,223
-"GrahamBlog","G000359","Lindsey Graham",59,"M","Republican","sen","SC",2237,3377,62428,2195
-"GreggHarper","H001045","Gregg Harper",58,"M","Republican","rep","MS",1942,2049,10769,378
-"GregoryMeeks","M001137","Gregory Meeks",60,"M","Democrat","rep","NY",1949,1275,8684,414
-"HerreraBeutler","H001056","Jaime Herrera Beutler",35,"F","Republican","rep","WA",1257,184,5643,1111
-"HowardCoble","C000556","Howard Coble",83,"M","Republican","rep","NC",1121,654,3865,461
-"InhofePress","I000024","James Inhofe",79,"M","Republican","sen","OK",1971,4892,10319,1376
-"JAHimes","H001047","James Himes",48,"M","Democrat","rep","CT",1906,4737,13545,650
-"JackKingston","K000220","Jack Kingston",59,"M","Republican","rep","GA",1892,1593,11346,483
-"JacksonLeeTX18","J000032","Sheila Jackson Lee",64,"F","Democrat","rep","TX",1732,1835,12350,1209
-"JanSchakowsky","S001145","Janice Schakowsky",70,"F","Democrat","rep","IL",1940,1984,14465,817
-"JaredPolis","P000598","Jared Polis",39,"M","Democrat","rep","CO",2187,3339,28316,2902
-"JasonInTheHouse","C001076","Jason Chaffetz",47,"M","Republican","rep","UT",2041,4798,72359,21436
-"JeffFlake","F000444","Jeff Flake",51,"M","Republican","sen","AZ",2135,914,23734,202
-"JeffFortenberry","F000449","Jeff Fortenberry",53,"M","Republican","rep","NE",2003,1298,9427,2145
-"JerryMoran","M000934","Jerry Moran",60,"M","Republican","sen","KS",2007,2611,16327,2725
-"JimGerlach","G000549","Jim Gerlach",59,"M","Republican","rep","PA",1874,669,8095,201
-"JimLangevin","L000559","James Langevin",50,"M","Democrat","rep","RI",2000,2166,8642,2138
-"JimPressOffice","S000244","F. Sensenbrenner",71,"M","Republican","rep","WI",645,161,1502,240
-"Jim_Jordan","J000289","Jim Jordan",50,"M","Republican","rep","OH",2027,829,17953,5170
-"Jim_Moran","M000933","James Moran",69,"M","Democrat","rep","VA",1846,1561,10988,237
-"JoaquinCastrotx","C001091","Joaquin Castro",39,"M","Democrat","rep","TX",1285,3206,20775,545
-"JohnBoozman","B001236","John Boozman",63,"M","Republican","sen","AR",2626,1352,20094,482
-"JohnCarneyde","C001083","John Carney",58,"M","Democrat","rep","DE",1269,1272,6724,1017
-"JohnCornyn","C001056","John Cornyn",62,"M","Republican","sen","TX",2340,13335,58660,9065
-"John_Dingell","D000355","John Dingell",88,"M","Democrat","rep","MI",1620,2545,11038,2184
-"JudgeCarter","C001051","John Carter",72,"M","Republican","rep","TX",2033,3677,10309,3027
-"JudgeTedPoe","P000592","Ted Poe",65,"M","Republican","rep","TX",1755,2203,11702,474
-"JuliaBrownley26","B001285","Julia Brownley",61,"F","Democrat","rep","CA",487,431,1388,409
-"KeithEllison","E000288","Keith Ellison",50,"M","Democrat","rep","MN",2306,8125,55026,2708
-"KeithRothfus","R000598","Keith Rothfus",52,"M","Republican","rep","PA",514,2044,1983,478
-"KenCalvert","C000059","Ken Calvert",61,"M","Republican","rep","CA",1951,2197,4625,228
-"LEETERRYNE","T000459","Lee Terry",52,"M","Republican","rep","NE",2021,3538,8620,558
-"LamarSmithTX21","S000583","Lamar Smith",66,"M","Republican","rep","TX",2151,843,12127,3531
-"LisaMurkowski","M001153","Lisa Murkowski",57,"F","Republican","sen","AK",2032,2184,25133,347
-"LorettaSanchez","S000030","Loretta Sanchez",54,"F","Democrat","rep","CA",1622,1729,14754,14629
-"LouiseSlaughter","S000480","Louise Slaughter",84,"F","Democrat","rep","NY",1795,1484,9438,646
-"LuisGutierrez","G000535","Luis Gutiérrez",60,"M","Democrat","rep","IL",1109,13,184,22
-"MacTXPress","T000238","Mac Thornberry",56,"M","Republican","rep","TX",1018,299,2752,974
-"MarioDB","D000600","Mario Diaz-Balart",52,"M","Republican","rep","FL",1890,1975,13781,152
-"MarkAmodeiNV2","A000369","Mark Amodei",56,"M","Republican","rep","NV",977,723,4220,1691
-"MarkUdall","U000038","Mark Udall",64,"M","Democrat","sen","CO",2520,3714,30854,217
-"MarkWarner","W000805","Mark Warner",59,"M","Democrat","sen","VA",2550,3588,47978,11029
-"MarkeyMemo","M000133","Edward Markey",68,"M","Democrat","sen","MA",1961,3516,21045,91
-"MarshaBlackburn","B001243","Marsha Blackburn",62,"F","Republican","rep","TN",1186,2431,14872,2294
-"MartinHeinrich","H001046","Martin Heinrich",42,"M","Democrat","sen","NM",534,759,4710,10
-"MaxineWaters","W000187","Maxine Waters",75,"F","Democrat","rep","CA",1892,1170,22822,860
-"MazieHirono","H001042","Mazie Hirono",66,"F","Democrat","sen","HI",1684,3280,11886,1176
-"McCaskillOffice","M001170","Claire McCaskill",60,"F","Democrat","sen","MO",1816,2572,5545,1428
-"McCaulPressShop","M001157","Michael McCaul",52,"M","Republican","rep","TX",1928,850,6901,196
-"McConnellPress","M000355","Mitch McConnell",72,"M","Republican","sen","KY",1080,4962,36075,252
-"MichaelCBurgess","B001248","Michael Burgess",63,"M","Republican","rep","TX",2159,3250,13198,1011
-"MicheleBachmann","B001256","Michele Bachmann",58,"F","Republican","rep","MN",2025,2909,220657,2857
-"MikeCrapo","C000880","Michael Crapo",63,"M","Republican","sen","ID",760,3841,9152,422
-"MikeKellyPA","K000376","Mike Kelly",66,"M","Republican","rep","PA",604,704,4737,527
-"Mike_Johanns","J000291","Mike Johanns",64,"M","Republican","sen","NE",1380,579,10369,139
-"NancyPelosi","P000197","Nancy Pelosi",74,"F","Democrat","rep","CA",2158,2436,498608,343
-"NikiInTheHouse","T000465","Niki Tsongas",68,"F","Democrat","rep","MA",1257,2705,6894,1005
-"NitaLowey","L000480","Nita Lowey",77,"F","Democrat","rep","NY",1312,946,8193,811
-"NydiaVelazquez","V000081","Nydia Velázquez",61,"F","Democrat","rep","NY",1458,183,5900,2988
-"OlsonPressShop","O000168","Pete Olson",51,"M","Republican","rep","TX",1977,2965,4365,1492
-"PatrickMcHenry","M001156","Patrick McHenry",38,"M","Republican","rep","NC",1923,2205,13777,3841
-"PattyMurray","M001111","Patty Murray",63,"F","Democrat","sen","WA",1158,5351,26938,2111
-"PedroPierluisi","P000596","Pedro Pierluisi",55,"M","Democrat","rep","PR",1898,6379,35393,10054
-"PeteSessions","S000250","Pete Sessions",59,"M","Republican","rep","TX",1937,3140,13615,757
-"PeterRoskam","R000580","Peter Roskam",52,"M","Republican","rep","IL",1977,3361,13848,4463
-"PeterWelch","W000800","Peter Welch",67,"M","Democrat","rep","VT",424,543,2522,1446
-"RalphHallPress","H000067","Ralph Hall",91,"M","Republican","rep","TX",514,387,1332,41
-"RandyNeugebauer","N000182","Randy Neugebauer",64,"M","Republican","rep","TX",1900,3253,9675,2966
-"Randy_Forbes","F000445","J. Forbes",62,"M","Republican","rep","VA",2208,3031,12879,4985
-"Raul_Labrador","L000573","Raúl Labrador",46,"M","Republican","rep","ID",1249,946,8685,510
-"RepAaronSchock","S001179","Aaron Schock",33,"M","Republican","rep","IL",NA,NA,NA,NA
-"RepAdamSchiff","S001150","Adam Schiff",54,"M","Democrat","rep","CA",1915,1615,9770,745
-"RepAdamSmith","S000510","Adam Smith",49,"M","Democrat","rep","WA",1810,1332,7920,1198
-"RepAdrianSmith","S001172","Adrian Smith",43,"M","Republican","rep","NE",1152,1097,3018,175
-"RepAlGreen","G000553","Al Green",66,"M","Democrat","rep","TX",1480,243,6645,65
-"RepAlanNunnelee","N000186","Alan Nunnelee",55,"M","Republican","rep","MS",1263,1459,5744,534
-"RepAndreCarson","C001072","André Carson",39,"M","Democrat","rep","IN",1368,1814,8961,831
-"RepAndyBarr","B001282","Garland Barr",40,"M","Republican","rep","KY",537,1487,4349,1091
-"RepAndyHarrisMD","H001052","Andy Harris",57,"M","Republican","rep","MD",592,1140,3255,381
-"RepAnnWagner","W000812","Ann Wagner",51,"F","Republican","rep","MO",550,1204,6248,2831
-"RepAnnaEshoo","E000215","Anna Eshoo",71,"F","Democrat","rep","CA",1243,929,7629,573
-"RepAnnieKuster","K000382","Ann Kuster",57,"F","Democrat","rep","NH",548,908,5716,7741
-"RepBarbaraLee","L000551","Barbara Lee",68,"F","Democrat","rep","CA",1244,2074,16999,627
-"RepBeatty","B001281","Joyce Beatty",64,"F","Democrat","rep","OH",381,1093,1730,773
-"RepBecerra","B000287","Xavier Becerra",56,"M","Democrat","rep","CA",1541,1260,15338,1808
-"RepBenRayLujan","L000570","Ben Luján",42,"M","Democrat","rep","NM",1990,812,7102,155
-"RepBera","B001287","Ami Bera",49,"M","Democrat","rep","CA",596,822,4632,82
-"RepBetoORourke","O000170","Beto O'Rourke",41,"M","Democrat","rep","TX",521,1193,4731,716
-"RepBillEnyart","E000292","William Enyart",64,"M","Democrat","rep","IL",544,239,2090,20
-"RepBillFlores","F000461","Bill Flores",60,"M","Republican","rep","TX",1270,3229,8062,1605
-"RepBillFoster","F000454","Bill Foster",58,"M","Democrat","rep","IL",540,847,2951,1267
-"RepBillJohnson","J000292","Bill Johnson",59,"M","Republican","rep","OH",1340,2500,7491,677
-"RepBillShuster","S001154","Bill Shuster",53,"M","Republican","rep","PA",1951,2160,10338,742
-"RepBlainePress","L000569","Blaine Luetkemeyer",62,"M","Republican","rep","MO",299,460,895,145
-"RepBobGibbs","G000563","Bob Gibbs",60,"M","Republican","rep","OH",1276,1578,7338,3252
-"RepBobbyRush","R000515","Bobby Rush",67,"M","Democrat","rep","IL",1137,509,4261,146
-"RepBobbyScott","S000185","Robert Scott",67,"M","Democrat","rep","VA",1465,989,7849,1337
-"RepBonamici","B001278","Suzanne Bonamici",59,"F","Democrat","rep","OR",806,551,3595,822
-"RepBoustany","B001255","Charles Boustany",58,"M","Republican","rep","LA",1243,300,4686,244
-"RepBradWenstrup","W000815","Brad Wenstrup",56,"M","Republican","rep","OH",849,1979,2688,760
-"RepBrady","B001227","Robert Brady",69,"M","Democrat","rep","PA",1501,495,6206,579
-"RepBrianHiggins","H001038","Brian Higgins",54,"M","Democrat","rep","NY",1902,5595,11585,1723
-"RepByrne","B001289","Bradley Byrne",59,"M","Republican","rep","AL",198,917,2038,1360
-"RepCardenas","C001097","Tony Cárdenas",51,"M","Democrat","rep","CA",494,2282,2612,857
-"RepCartwright","C001090","Matthew Cartwright",53,"M","Democrat","rep","PA",681,1629,2941,1175
-"RepCheri","B001286","Cheri Bustos",52,"F","Democrat","rep","IL",536,649,4893,3591
-"RepChrisCollins","C001092","Chris Collins",64,"M","Republican","rep","NY",548,1876,2479,100
-"RepChrisGibson","G000564","Christopher Gibson",50,"M","Republican","rep","NY",1276,878,6234,201
-"RepChrisSmith","S000522","Christopher Smith",61,"M","Republican","rep","NJ",470,195,2166,50
-"RepChrisStewart","S001192","Chris Stewart",54,"M","Republican","rep","UT",543,684,2550,486
-"RepChuck","F000459","Charles Fleischmann",51,"M","Republican","rep","TN",1275,1095,5584,620
-"RepCicilline","C001084","David Cicilline",53,"M","Democrat","rep","RI",905,383,2037,1987
-"RepCleaver","C001061","Emanuel Cleaver",69,"M","Democrat","rep","MO",1460,1507,10643,519
-"RepCohen","C001068","Steve Cohen",65,"M","Democrat","rep","TN",1464,2429,10515,417
-"RepCorrineBrown","B000911","Corrine Brown",67,"F","Democrat","rep","FL",1158,903,6095,241
-"RepCoryGardner","G000562","Cory Gardner",39,"M","Republican","rep","CO",1275,1594,6911,636
-"RepCuellar","C001063","Henry Cuellar",58,"M","Democrat","rep","TX",1342,2073,7835,1853
-"RepCummings","C000984","Elijah Cummings",63,"M","Democrat","rep","MD",676,1182,7093,676
-"RepDLamborn","L000564","Doug Lamborn",60,"M","Republican","rep","CO",778,1289,3372,630
-"RepDWStweets","W000797","Debbie Wasserman Schultz",47,"F","Democrat","rep","FL",519,778,4404,1664
-"RepDanKildee","K000380","Daniel Kildee",55,"M","Democrat","rep","MI",553,942,8669,6016
-"RepDanMaffei","M001171","Daniel Maffei",46,"M","Democrat","rep","NY",548,537,2469,8
-"RepDannyDavis","D000096","Danny Davis",72,"M","Democrat","rep","IL",675,164,830,235
-"RepDaveCamp","C000071","Dave Camp",61,"M","Republican","rep","MI",1921,1728,16029,6312
-"RepDaveJoyce","J000295","David Joyce",57,"M","Republican","rep","OH",584,1486,2880,2159
-"RepDavid","S001183","David Schweikert",52,"M","Republican","rep","AZ",1292,2943,9725,1897
-"RepDavidEPrice","P000523","David Price",73,"M","Democrat","rep","NC",1482,1723,6497,2378
-"RepDavidScott","S001157","David Scott",69,"M","Democrat","rep","GA",1446,1479,6326,784
-"RepDavidValadao","V000129","David Valadao",37,"M","Republican","rep","CA",523,347,2133,193
-"RepDeSantis","D000621","Ron DeSantis",35,"M","Republican","rep","FL",548,1239,5027,1440
-"RepDelBene","D000617","Suzan DelBene",52,"F","Democrat","rep","WA",575,998,3618,310
-"RepDennisRoss","R000593","Dennis Ross",54,"M","Republican","rep","FL",1902,11236,7779,1224
-"RepDennyHeck","H001064","Denny Heck",61,"M","Democrat","rep","WA",544,944,2097,422
-"RepDerekKilmer","K000381","Derek Kilmer",40,"M","Democrat","rep","WA",548,412,3080,48
-"RepDianaDeGette","D000197","Diana DeGette",56,"F","Democrat","rep","CO",1919,1043,11372,11114
-"RepDianeBlack","B001273","Diane Black",63,"F","Republican","rep","TN",1615,2602,9481,1380
-"RepDinaTitus","T000468","Dina Titus",64,"F","Democrat","rep","NV",1577,1897,4898,1210
-"RepDonYoung","Y000033","Don Young",81,"M","Republican","rep","AK",1891,735,7610,372
-"RepDonaldPayne","P000604","Donald Payne",55,"M","Democrat","rep","NJ",514,916,1767,514
-"RepDonnaEdwards","E000290","Donna Edwards",56,"F","Democrat","rep","MD",1724,2596,14710,235
-"RepDougCollins","C001093","Doug Collins",47,"M","Republican","rep","GA",547,1139,3069,589
-"RepDuckworth","D000622","Tammy Duckworth",46,"F","Democrat","rep","IL",548,798,6740,2301
-"RepEBJ","J000126","Eddie Johnson",78,"F","Democrat","rep","TX",1447,5134,9274,854
-"RepEdRoyce","R000487","Edward Royce",62,"M","Republican","rep","CA",1248,1161,8292,348
-"RepEdWhitfield","W000413","Ed Whitfield",71,"M","Republican","rep","KY",1276,327,3715,199
-"RepEliotEngel","E000179","Eliot Engel",67,"M","Democrat","rep","NY",1459,791,6278,609
-"RepErikPaulsen","P000594","Erik Paulsen",49,"M","Republican","rep","MN",2053,2800,11219,2188
-"RepEsty","E000293","Elizabeth Esty",54,"F","Democrat","rep","CT",547,1124,3841,713
-"RepFilemonVela","V000132","Filemon Vela",51,"M","Democrat","rep","TX",539,216,2027,128
-"RepFincherTN08","F000458","Stephen Fincher",41,"M","Republican","rep","TN",1243,2534,6522,1121
-"RepFitzpatrick","F000451","Michael Fitzpatrick",51,"M","Republican","rep","PA",1268,3362,6927,940
-"RepFleming","F000456","John Fleming",63,"M","Republican","rep","LA",1716,1159,8870,230
-"RepFrankLucas","L000491","Frank Lucas",54,"M","Republican","rep","OK",1257,340,2245,59
-"RepFredUpton","U000031","Fred Upton",61,"M","Republican","rep","MI",1570,1931,11055,3697
-"RepGaramendi","G000559","John Garamendi",69,"M","Democrat","rep","CA",1698,7881,9914,8025
-"RepGarrett","G000548","Scott Garrett",55,"M","Republican","rep","NJ",592,511,3128,191
-"RepGaryMiller","M001139","Gary Miller",65,"M","Republican","rep","CA",1482,290,4807,71
-"RepGaryPeters","P000595","Gary Peters",55,"M","Democrat","rep","MI",1272,1309,6140,311
-"RepGeneGreen","G000410","Gene Green",66,"M","Democrat","rep","TX",1611,324,5702,226
-"RepGoodlatte","G000289","Bob Goodlatte",61,"M","Republican","rep","VA",1887,2497,12242,213
-"RepGosar","G000565","Paul Gosar",55,"M","Republican","rep","AZ",1262,4489,10963,2988
-"RepGraceMeng","M001188","Grace Meng",38,"F","Democrat","rep","NY",551,1451,4079,545
-"RepGregWalden","W000791","Greg Walden",57,"M","Republican","rep","OR",1906,1095,10338,168
-"RepGusBilirakis","B001257","Gus Bilirakis",51,"M","Republican","rep","FL",1930,2624,10545,1187
-"RepGuthrie","G000558","Brett Guthrie",50,"M","Republican","rep","KY",282,282,654,335
-"RepGwenMoore","M001160","Gwen Moore",63,"F","Democrat","rep","WI",1950,3218,10594,485
-"RepHalRogers","R000395","Harold Rogers",76,"M","Republican","rep","KY",816,1442,3731,421
-"RepHanabusa","H001050","Colleen Hanabusa",63,"F","Democrat","rep","HI",1274,1017,5979,813
-"RepHankJohnson","J000288","Henry Johnson",59,"M","Democrat","rep","GA",1937,1588,9983,359
-"RepHartzler","H001053","Vicky Hartzler",53,"F","Republican","rep","MO",1269,2614,7084,683
-"RepHastingsFL","H000324","Alcee Hastings",77,"M","Democrat","rep","FL",88,44,208,31
-"RepHensarling","H001036","Jeb Hensarling",57,"M","Republican","rep","TX",2010,564,11304,791
-"RepHolding","H001065","George Holding",46,"M","Republican","rep","NC",548,346,3031,264
-"RepHorsford","H001066","Steven Horsford",41,"M","Democrat","rep","NV",996,1349,5408,1230
-"RepHuffman","H001068","Jared Huffman",50,"M","Democrat","rep","CA",543,895,3303,600
-"RepHuizenga","H001058","Bill Huizenga",45,"M","Republican","rep","MI",1278,4046,7941,3469
-"RepHultgren","H001059","Randy Hultgren",48,"M","Republican","rep","IL",1269,1976,6814,1745
-"RepJBridenstine","B001283","Jim Bridenstine",39,"M","Republican","rep","OK",536,898,13207,2559
-"RepJasonSmith","S001195","Jason Smith",34,"M","Republican","rep","MO",344,1216,2112,1085
-"RepJeffDenham","D000612","Jeff Denham",46,"M","Republican","rep","CA",1244,1590,7646,1363
-"RepJeffDuncan","D000615","Jeff Duncan",48,"M","Republican","rep","SC",1263,2644,18448,7031
-"RepJeffries","J000294","Hakeem Jeffries",43,"M","Democrat","rep","NY",899,563,4185,607
-"RepJerryNadler","N000002","Jerrold Nadler",67,"M","Democrat","rep","NY",1877,921,6822,921
-"RepJimCooper","C000754","Jim Cooper",60,"M","Democrat","rep","TN",1951,669,5923,325
-"RepJimCosta","C001059","Jim Costa",62,"M","Democrat","rep","CA",1251,725,2627,431
-"RepJimMatheson","M001142","Jim Matheson",54,"M","Democrat","rep","UT",1851,1160,8315,83
-"RepJimMcDermott","M000404","Jim McDermott",77,"M","Democrat","rep","WA",1545,1621,10544,1077
-"RepJimRenacci","R000586","James Renacci",55,"M","Republican","rep","OH",1271,1882,7375,600
-"RepJoeBarton","B000213","Joe Barton",64,"M","Republican","rep","TX",1979,1102,13669,84
-"RepJoeCourtney","C001069","Joe Courtney",61,"M","Democrat","rep","CT",1713,2985,8463,1754
-"RepJoeCrowley","C001038","Joseph Crowley",52,"M","Democrat","rep","NY",1611,1170,6798,350
-"RepJoeGarcia","G000573","Joe Garcia",50,"M","Democrat","rep","FL",603,1512,1980,608
-"RepJoeHeck","H001055","Joseph Heck",52,"M","Republican","rep","NV",1311,2403,6885,83
-"RepJoeKennedy","K000379","Joseph Kennedy",33,"M","Democrat","rep","MA",549,1170,11248,130
-"RepJoePitts","P000373","Joseph Pitts",74,"M","Republican","rep","PA",1370,810,5649,58
-"RepJohnBarrow","B001252","John Barrow",58,"M","Democrat","rep","GA",1949,856,7675,403
-"RepJohnCampbell","C001064","John Campbell",59,"M","Republican","rep","CA",1244,633,6064,369
-"RepJohnConyers","C000714","John Conyers",85,"M","Democrat","rep","MI",1527,1096,13069,593
-"RepJohnDelaney","D000620","John Delaney",51,"M","Democrat","rep","MD",603,1838,2882,613
-"RepJohnDuncanJr","D000533","John Duncan",67,"M","Republican","rep","TN",289,193,793,178
-"RepJohnKline","K000363","John Kline",66,"M","Republican","rep","MN",1747,2310,6674,188
-"RepJohnLarson","L000557","John Larson",65,"M","Democrat","rep","CT",1837,1141,8635,333
-"RepJohnLewis","L000287","John Lewis",74,"M","Democrat","rep","GA",1915,1000,35870,174
-"RepJohnSarbanes","S001168","John Sarbanes",52,"M","Democrat","rep","MD",1041,414,3900,387
-"RepJohnYarmuth","Y000062","John Yarmuth",66,"M","Democrat","rep","KY",1005,1295,7482,219
-"RepJonRunyan","R000594","Jon Runyan",40,"M","Republican","rep","NJ",1130,748,5486,584
-"RepJoseSerrano","S000248","José Serrano",70,"M","Democrat","rep","NY",1902,1846,10392,559
-"RepJuanVargas","V000130","Juan Vargas",53,"M","Democrat","rep","CA",481,299,2144,51
-"RepJudyChu","C001080","Judy Chu",61,"F","Democrat","rep","CA",1382,1370,9369,823
-"RepJustinAmash","A000367","Justin Amash",34,"M","Republican","rep","MI",1278,6738,48924,2675
-"RepKClark","C001101","Katherine Clark",51,"F","Democrat","rep","MA",171,368,1442,876
-"RepKarenBass","B001270","Karen Bass",60,"F","Democrat","rep","CA",1264,1701,19878,15393
-"RepKayGranger","G000377","Kay Granger",71,"F","Republican","rep","TX",1465,1119,7600,1070
-"RepKenMarchant","M001158","Kenny Marchant",63,"M","Republican","rep","TX",1941,4529,11603,2227
-"RepKerryB","B001280","Kerry Bentivolio",62,"M","Republican","rep","MI",589,950,3133,1404
-"RepKevinBrady","B000755","Kevin Brady",59,"M","Republican","rep","TX",1979,6270,12445,340
-"RepKevinCramer","C001096","Kevin Cramer",53,"M","Republican","rep","ND",552,690,2901,616
-"RepKevinYoder","Y000063","Kevin Yoder",38,"M","Republican","rep","KS",1235,3435,7201,1354
-"RepKinzinger","K000378","Adam Kinzinger",36,"M","Republican","rep","IL",1319,1939,11128,924
-"RepKirkpatrick","K000368","Ann Kirkpatrick",64,"F","Democrat","rep","AZ",537,898,4014,1040
-"RepKristiNoem","N000184","Kristi Noem",42,"F","Republican","rep","SD",1275,1658,13234,339
-"RepLaMalfa","L000578","Doug LaMalfa",54,"M","Republican","rep","CA",544,183,1634,770
-"RepLanceNJ7","L000567","Leonard Lance",62,"M","Republican","rep","NJ",745,591,2316,218
-"RepLankford","L000575","James Lankford",46,"M","Republican","rep","OK",1301,2168,10730,441
-"RepLarryBucshon","B001275","Larry Bucshon",52,"M","Republican","rep","IN",1276,2838,7074,1108
-"RepLindaSanchez","S001156","Linda Sánchez",45,"F","Democrat","rep","CA",1125,1377,5799,1012
-"RepLipinski","L000563","Daniel Lipinski",48,"M","Democrat","rep","IL",569,446,1785,510
-"RepLloydDoggett","D000399","Lloyd Doggett",67,"M","Democrat","rep","TX",1487,1445,9334,280
-"RepLoBiondo","L000554","Frank LoBiondo",68,"M","Republican","rep","NJ",1261,1883,5449,195
-"RepLoisCapps","C001036","Lois Capps",76,"F","Democrat","rep","CA",1158,1527,6346,825
-"RepLoisFrankel","F000462","Lois Frankel",66,"F","Democrat","rep","FL",541,725,3178,354
-"RepLouBarletta","B001269","Lou Barletta",58,"M","Republican","rep","PA",1264,1037,7267,1656
-"RepLouieGohmert","G000552","Louie Gohmert",60,"M","Republican","rep","TX",1955,2632,29915,358
-"RepLowenthal","L000579","Alan Lowenthal",73,"M","Democrat","rep","CA",549,909,3456,2164
-"RepLujanGrisham","L000580","Michelle Lujan Grisham",54,"F","Democrat","rep","NM",547,986,3631,411
-"RepLukeMesser","M001189","Luke Messer",45,"M","Republican","rep","IN",553,672,3348,621
-"RepLynnJenkins","J000290","Lynn Jenkins",51,"F","Republican","rep","KS",1984,3930,13007,4616
-"RepMGriffith","G000568","H. Griffith",56,"M","Republican","rep","VA",1278,708,6655,400
-"RepMaloney","M000087","Carolyn Maloney",68,"F","Democrat","rep","NY",1223,948,7789,3304
-"RepMarciaFudge","F000455","Marcia Fudge",61,"F","Democrat","rep","OH",1488,1761,11124,1146
-"RepMarcyKaptur","K000009","Marcy Kaptur",68,"F","Democrat","rep","OH",781,418,2867,193
-"RepMarkMeadows","M001187","Mark Meadows",54,"M","Republican","rep","NC",590,1171,4483,1571
-"RepMarkPocan","P000607","Mark Pocan",49,"M","Democrat","rep","WI",499,1459,3565,695
-"RepMarkTakano","T000472","Mark Takano",53,"M","Democrat","rep","CA",556,790,6133,1998
-"RepMarthaRoby","R000591","Martha Roby",37,"F","Republican","rep","AL",1305,4421,11412,2064
-"RepMattSalmon","S000018","Matt Salmon",56,"M","Republican","rep","AZ",542,1441,4825,2536
-"RepMcAllister","M001192","Vance McAllister",40,"M","Republican","rep","LA",205,78,621,178
-"RepMcCarthyNY","M000309","Carolyn McCarthy",70,"F","Democrat","rep","NY",1495,186,4922,57
-"RepMcClintock","M001177","Tom McClintock",58,"M","Republican","rep","CA",1837,203,7986,0
-"RepMcGovern","M000312","James McGovern",54,"M","Democrat","rep","MA",1258,2121,11023,486
-"RepMcKinley","M001180","David McKinley",67,"M","Republican","rep","WV",1263,1932,6389,204
-"RepMcLeod","N000187","Gloria Negrete McLeod",72,"F","Democrat","rep","CA",561,261,2368,226
-"RepMcNerney","M001166","Jerry McNerney",63,"M","Democrat","rep","CA",1004,646,3891,386
-"RepMeehan","M001181","Patrick Meehan",58,"M","Republican","rep","PA",1244,1801,6679,910
-"RepMichaelGrimm","G000569","Michael Grimm",44,"M","Republican","rep","NY",1275,333,7485,100
-"RepMickMulvaney","M001182","Mick Mulvaney",46,"M","Republican","rep","SC",1263,972,7924,5853
-"RepMikeCoffman","C001077","Mike Coffman",59,"M","Republican","rep","CO",1989,1620,13000,1320
-"RepMikeHonda","H001034","Michael Honda",73,"M","Democrat","rep","CA",2101,1279,13876,322
-"RepMikeMcIntyre","M000485","Mike McIntyre",57,"M","Democrat","rep","NC",1324,1441,5136,146
-"RepMikeMichaud","M001149","Michael Michaud",59,"M","Democrat","rep","ME",1979,550,8743,10
-"RepMikePompeo","P000602","Mike Pompeo",50,"M","Republican","rep","KS",1254,2061,6558,1348
-"RepMikeQuigley","Q000023","Mike Quigley",55,"M","Democrat","rep","IL",1816,3969,9675,1600
-"RepMikeRogers","R000572","Mike Rogers",51,"M","Republican","rep","MI",1479,1185,7894,444
-"RepMikeRogersAL","R000575","Mike Rogers",56,"M","Republican","rep","AL",1901,1866,10647,2846
-"RepMikeTurner","T000463","Michael Turner",54,"M","Republican","rep","OH",1835,1417,5517,649
-"RepMoBrooks","B001274","Mo Brooks",60,"M","Republican","rep","AL",1270,442,7139,1965
-"RepMullin","M001190","Markwayne Mullin",36,"M","Republican","rep","OK",547,911,3798,1038
-"RepMurphyFL","M001191","Patrick Murphy",31,"M","Democrat","rep","FL",523,880,3121,239
-"RepPaulBrounMD","B001262","Paul Broun",68,"M","Republican","rep","GA",2003,1417,13420,2819
-"RepPaulCook","C001094","Paul Cook",71,"M","Republican","rep","CA",542,452,2347,929
-"RepPaulRyan","R000570","Paul Ryan",44,"M","Republican","rep","WI",2000,1287,383518,1
-"RepPaulTonko","T000469","Paul Tonko",65,"M","Democrat","rep","NY",1718,3708,8065,1058
-"RepPerlmutter","P000593","Ed Perlmutter",61,"M","Democrat","rep","CO",1971,976,9584,242
-"RepPeteGallego","G000572","Pete Gallego",52,"M","Democrat","rep","TX",542,2119,3676,752
-"RepPeteKing","K000210","Peter King",70,"M","Republican","rep","NY",2022,1817,17984,95
-"RepPeterDeFazio","D000191","Peter DeFazio",67,"M","Democrat","rep","OR",1237,471,7941,739
-"RepPhilGingrey","G000550","Phil Gingrey",72,"M","Republican","rep","GA",1905,1800,13770,1088
-"RepPittenger","P000606","Robert Pittenger",65,"M","Republican","rep","NC",597,2312,2999,1183
-"RepRWilliams","W000816","Roger Williams",64,"M","Republican","rep","TX",541,748,1735,429
-"RepReneeEllmers","E000291","Renee Ellmers",50,"F","Republican","rep","NC",1334,4399,11621,3130
-"RepRibble","R000587","Reid Ribble",58,"M","Republican","rep","WI",1278,671,6658,550
-"RepRichHudson","H001067","Richard Hudson",42,"M","Republican","rep","NC",604,1620,3865,1065
-"RepRichNugent","N000185","Richard Nugent",63,"M","Republican","rep","FL",1272,64,2617,172
-"RepRichardHanna","H001051","Richard Hanna",63,"M","Republican","rep","NY",1271,2372,7274,414
-"RepRichardNeal","N000015","Richard Neal",65,"M","Democrat","rep","MA",927,528,3023,15
-"RepRichmond","R000588","Cedric Richmond",40,"M","Democrat","rep","LA",1206,1225,6086,860
-"RepRickCrawford","C001087","Eric Crawford",48,"M","Republican","rep","AR",1279,1874,7360,1158
-"RepRickLarsen","L000560","Rick Larsen",49,"M","Democrat","rep","WA",975,2319,3695,1199
-"RepRobBishop","B001250","Rob Bishop",63,"M","Republican","rep","UT",1502,0,1090,95
-"RepRobertHurt","H001060","Robert Hurt",45,"M","Republican","rep","VA",1276,1652,6713,527
-"RepRobinKelly","K000385","Robin Kelly",58,"F","Democrat","rep","IL",452,553,1176,278
-"RepRonBarber","B001279","Ron Barber",68,"M","Democrat","rep","AZ",746,1634,3578,233
-"RepRonKind","K000188","Ron Kind",51,"M","Democrat","rep","WI",1607,777,6194,561
-"RepRoybalAllard","R000486","Lucille Roybal-Allard",73,"F","Democrat","rep","CA",886,736,2747,433
-"RepSamFarr","F000030","Sam Farr",73,"M","Democrat","rep","CA",1474,957,7275,687
-"RepSandyLevin","L000263","Sander Levin",82,"M","Democrat","rep","MI",1931,1295,15414,13514
-"RepSanfordSC","S000051","Marshall Sanford",54,"M","Republican","rep","SC",389,109,1319,220
-"RepSchneider","S001190","Bradley Schneider",52,"M","Democrat","rep","IL",543,922,3056,664
-"RepSchrader","S001180","Kurt Schrader",62,"M","Democrat","rep","OR",1971,1040,8513,662
-"RepScottPerry","P000605","Scott Perry",52,"M","Republican","rep","PA",2004,1178,4071,1927
-"RepScottPeters","P000608","Scott Peters",56,"M","Democrat","rep","CA",521,2610,3164,688
-"RepScottRigell","R000589","Edward Rigell",54,"M","Republican","rep","VA",1312,3079,8070,2544
-"RepSeanDuffy","D000614","Sean Duffy",42,"M","Republican","rep","WI",1278,1864,12589,2586
-"RepSeanMaloney","M001185","Sean Maloney",47,"M","Democrat","rep","NY",542,1100,3078,331
-"RepSheaPorter","S001170","Carol Shea-Porter",61,"F","Democrat","rep","NH",1563,533,3005,450
-"RepShelley","C001047","Shelley Capito",60,"F","Republican","rep","WV",1382,1167,9306,916
-"RepShimkus","S000364","John Shimkus",56,"M","Republican","rep","IL",2171,6660,11497,845
-"RepSinema","S001191","Kyrsten Sinema",38,"F","Democrat","rep","AZ",540,3245,6898,705
-"RepSpeier","S001175","Jackie Speier",64,"F","Democrat","rep","CA",1936,1881,12823,1002
-"RepStephenLynch","L000562","Stephen Lynch",59,"M","Democrat","rep","MA",1128,645,4069,186
-"RepSteveChabot","C000266","Steve Chabot",61,"M","Republican","rep","OH",1269,1222,8734,5772
-"RepSteveIsrael","I000057","Steve Israel",56,"M","Democrat","rep","NY",1978,2134,13455,278
-"RepStevePearce","P000588","Stevan Pearce",66,"M","Republican","rep","NM",1275,2347,6076,684
-"RepSteveStivers","S001187","Steve Stivers",49,"M","Republican","rep","OH",1340,1466,7559,896
-"RepStutzman","S001188","Marlin Stutzman",37,"M","Republican","rep","IN",1339,839,5108,221
-"RepSusanDavis","D000598","Susan Davis",70,"F","Democrat","rep","CA",939,625,2160,64
-"RepSwalwell","S001193","Eric Swalwell",33,"M","Democrat","rep","CA",601,2594,5547,2335
-"RepTedDeutch","D000610","Theodore Deutch",48,"M","Democrat","rep","FL",1530,1512,8711,1298
-"RepTedYoho","Y000065","Ted Yoho",59,"M","Republican","rep","FL",543,324,3031,328
-"RepTerriSewell","S001185","Terri Sewell",49,"F","Democrat","rep","AL",1012,1200,6372,829
-"RepThomasMassie","M001184","Thomas Massie",43,"M","Republican","rep","KY",584,1380,10205,529
-"RepThompson","T000460","Mike Thompson",63,"M","Democrat","rep","CA",1139,665,2912,277
-"RepTierney","T000266","John Tierney",62,"M","Democrat","rep","MA",1006,818,4913,223
-"RepTimGriffin","G000567","Tim Griffin",45,"M","Republican","rep","AR",1363,6489,11310,3977
-"RepTimMurphy","M001151","Tim Murphy",61,"M","Republican","rep","PA",1590,1404,6675,449
-"RepTimRyan","R000577","Tim Ryan",40,"M","Democrat","rep","OH",2333,1699,18687,1329
-"RepTimWalz","W000799","Timothy Walz",50,"M","Democrat","rep","MN",480,441,1675,740
-"RepTipton","T000470","Scott Tipton",57,"M","Republican","rep","CO",1257,993,6458,1120
-"RepToddYoung","Y000064","Todd Young",41,"M","Republican","rep","IN",1278,2035,7090,422
-"RepTomCotton","C001095","Tom Cotton",37,"M","Republican","rep","AR",588,1409,5948,322
-"RepTomGraves","G000560","Tom Graves",44,"M","Republican","rep","GA",1391,2173,9403,2781
-"RepTomMarino","M001179","Tom Marino",61,"M","Republican","rep","PA",1263,1539,6856,749
-"RepTomPrice","P000591","Tom Price",59,"M","Republican","rep","GA",2588,4272,22900,3100
-"RepTomReed","R000585","Tom Reed",42,"M","Republican","rep","NY",1235,602,5677,125
-"RepTomRice","R000597","Tom Rice",56,"M","Republican","rep","SC",548,350,3031,300
-"RepTrentFranks","F000448","Trent Franks",57,"M","Republican","rep","AZ",1937,980,13322,1207
-"RepVeasey","V000131","Marc Veasey",43,"M","Democrat","rep","TX",542,780,3352,2264
-"RepVisclosky","V000108","Peter Visclosky",64,"M","Democrat","rep","IN",1382,1207,3985,856
-"RepWOLFPress","W000672","Frank Wolf",75,"M","Republican","rep","VA",1270,321,4999,379
-"RepWalberg","W000798","Tim Walberg",63,"M","Republican","rep","MI",1269,1405,6874,374
-"RepWalorski","W000813","Jackie Walorski",50,"F","Republican","rep","IN",545,1532,3268,686
-"RepWalterJones","J000255","Walter Jones",71,"M","Republican","rep","NC",1927,1083,10819,133
-"RepWebster","W000806","Daniel Webster",65,"M","Republican","rep","FL",1179,1703,4686,326
-"RepWestmoreland","W000796","Lynn Westmoreland",64,"M","Republican","rep","GA",1531,1897,7170,490
-"RepWilson","W000808","Frederica Wilson",71,"F","Democrat","rep","FL",1278,2120,7644,1447
-"RepZoeLofgren","L000397","Zoe Lofgren",66,"F","Democrat","rep","CA",1206,843,5115,44
-"Rep_Albio_Sires","S001165","Albio Sires",63,"M","Democrat","rep","NJ",233,1,17,6
-"Rep_DevinNunes","N000181","Devin Nunes",40,"M","Republican","rep","CA",1072,2,428,0
-"Rep_Hunter","H001048","Duncan Hunter",37,"M","Republican","rep","CA",466,211,2689,236
-"Rep_JaniceHahn","H001063","Janice Hahn",62,"F","Democrat","rep","CA",1080,1645,5401,878
-"Rep_Southerland","S001186","Steve Southerland",48,"M","Republican","rep","FL",1269,624,7889,611
-"Rep_SteveWomack","W000809","Steve Womack",57,"M","Republican","rep","AR",1277,2399,7583,1070
-"RepraulGrijalva","G000551","Raúl Grijalva",66,"M","Democrat","rep","AZ",1919,1717,12031,271
-"RobPortman","P000449","Robert Portman",58,"M","Republican","sen","OH",2000,3544,39223,1631
-"RobWittman","W000804","Robert Wittman",55,"M","Republican","rep","VA",2188,4199,13738,7145
-"Robert_Aderholt","A000055","Robert Aderholt",48,"M","Republican","rep","AL",1747,919,7513,65
-"RodneyDavis","D000619","Rodney Davis",44,"M","Republican","rep","IL",576,1541,3616,516
-"RonWyden","W000779","Ron Wyden",65,"M","Democrat","sen","OR",1241,1399,30035,291
-"RosLehtinen","R000435","Ileana Ros-Lehtinen",62,"F","Republican","rep","FL",2286,13755,57018,1424
-"RosaDeLauro","D000216","Rosa DeLauro",71,"F","Democrat","rep","CT",1522,2881,12328,1641
-"RoyBlunt","B000575","Roy Blunt",64,"M","Republican","sen","MO",1962,4077,31554,6763
-"SamsPressShop","J000174","Sam Johnson",83,"M","Republican","rep","TX",1243,401,3080,419
-"SanfordBishop","B000490","Sanford Bishop",67,"M","Democrat","rep","GA",1242,894,6263,620
-"SaxbyChambliss","C000286","Saxby Chambliss",70,"M","Republican","sen","GA",830,795,11208,197
-"SenAlexander","A000360","Lamar Alexander",74,"M","Republican","sen","TN",1746,1089,22581,393
-"SenAngusKing","K000383","Angus King",70,"M","Independent","sen","ME",544,926,7581,307
-"SenBennetCo","B001267","Michael Bennet",49,"M","Democrat","sen","CO",1305,853,17999,59
-"SenBillNelson","N000032","Bill Nelson",71,"M","Democrat","sen","FL",1970,486,36999,100
-"SenBlumenthal","B001277","Richard Blumenthal",68,"M","Democrat","sen","CT",1186,2833,19310,634
-"SenBobCasey","C001070","Robert Casey",54,"M","Democrat","sen","PA",1439,1369,20104,310
-"SenBobCorker","C001071","Bob Corker",61,"M","Republican","sen","TN",1758,1755,30323,435
-"SenBookerOfc","B001288","Cory Booker",45,"M","Democrat","sen","NJ",247,412,1378,54
-"SenBrianSchatz","S001194","Brian Schatz",41,"M","Democrat","sen","HI",480,193,3151,1352
-"SenCarlLevin","L000261","Carl Levin",80,"M","Democrat","sen","MI",1677,660,18999,2
-"SenCoonsOffice","C001088","Chris Coons",50,"M","Democrat","sen","DE",935,1965,2835,111
-"SenDanCoats","C000542","Daniel Coats",71,"M","Republican","sen","IN",1338,2346,17295,587
-"SenDeanHeller","H001041","Dean Heller",54,"M","Republican","sen","NV",1209,2482,12970,4229
-"SenDonnelly","D000607","Joe Donnelly",58,"M","Democrat","sen","IN",1327,1409,12541,262
-"SenFeinstein","F000062","Dianne Feinstein",81,"F","Democrat","sen","CA",890,1238,36103,127
-"SenJackReed","R000122","John Reed",64,"M","Democrat","sen","RI",878,2064,10830,11
-"SenJeffMerkley","M001176","Jeff Merkley",57,"M","Democrat","sen","OR",1916,1566,29048,127
-"SenJohnBarrasso","B001261","John Barrasso",61,"M","Republican","sen","WY",1361,1904,16118,427
-"SenJohnHoeven","H001061","John Hoeven",57,"M","Republican","sen","ND",1009,621,8552,397
-"SenJohnMcCain","M000303","John McCain",77,"M","Republican","sen","AZ",1989,6882,1891639,319
-"SenJohnThune","T000250","John Thune",53,"M","Republican","sen","SD",1152,1522,27236,303
-"SenJohnsonSD","J000177","Tim Johnson",67,"M","Democrat","sen","SD",1254,1277,11311,52
-"SenKaineOffice","K000384","Timothy Kaine",56,"M","Democrat","sen","VA",478,359,2397,122
-"SenLandrieu","L000550","Mary Landrieu",58,"F","Democrat","sen","LA",963,1946,16130,239
-"SenMarkPryor","P000590","Mark Pryor",51,"M","Democrat","sen","AR",946,1644,13710,281
-"SenMikeLee","L000577","Mike Lee",43,"M","Republican","sen","UT",1699,2798,136365,2321
-"SenOrrinHatch","H000338","Orrin Hatch",80,"M","Republican","sen","UT",1215,1634,10635,30
-"SenPatRoberts","R000307","Pat Roberts",78,"M","Republican","sen","KS",1751,997,13380,675
-"SenRandPaul","P000603","Rand Paul",51,"M","Republican","sen","KY",1326,2323,453214,325
-"SenRockefeller","R000361","John Rockefeller",77,"M","Democrat","sen","WV",1195,3190,16587,645
-"SenRonJohnson","J000293","Ron Johnson",59,"M","Republican","sen","WI",1278,1050,23760,86
-"SenRubioPress","R000595","Marco Rubio",43,"M","Republican","sen","FL",1290,1625,15986,97
-"SenSanders","S000033","Bernard Sanders",72,"M","Independent","sen","VT",1915,9804,219700,1505
-"SenShelby","S000320","Richard Shelby",80,"M","Republican","sen","AL",1964,203,15354,143
-"SenSherrodBrown","B000944","Sherrod Brown",61,"M","Democrat","sen","OH",1860,1310,40155,42
-"SenTedCruz","C001098","Ted Cruz",43,"M","Republican","sen","TX",542,2660,325583,7788
-"SenThadCochran","C000567","Thad Cochran",76,"M","Republican","sen","MS",810,847,11740,467
-"SenToomey","T000461","Patrick Toomey",52,"M","Republican","sen","PA",1314,2464,30414,771
-"SenWalshOffice","W000818","John Walsh",53,"M","Democrat","sen","MT",129,145,749,362
-"SenWarren","W000817","Elizabeth Warren",65,"F","Democrat","sen","MA",587,265,82944,241
-"SenWhitehouse","W000802","Sheldon Whitehouse",58,"M","Democrat","sen","RI",1257,1660,18041,1379
-"Sen_JoeManchin","M001183","Joe Manchin",66,"M","Democrat","sen","WV",1277,2128,23387,614
-"SenatorBaldwin","B001230","Tammy Baldwin",52,"F","Democrat","sen","WI",542,2023,9704,540
-"SenatorBarb","M000702","Barbara Mikulski",78,"F","Democrat","sen","MD",1545,3069,30106,8
-"SenatorBegich","B001265","Mark Begich",52,"M","Democrat","sen","AK",1719,2585,18893,491
-"SenatorBoxer","B000711","Barbara Boxer",73,"F","Democrat","sen","CA",2181,1444,47902,104
-"SenatorBurr","B001135","Richard Burr",58,"M","Republican","sen","NC",1963,1409,27600,3371
-"SenatorCardin","C000141","Benjamin Cardin",70,"M","Democrat","sen","MD",1620,3504,24406,220
-"SenatorCarper","C000174","Thomas Carper",67,"M","Democrat","sen","DE",1242,3019,12178,487
-"SenatorCollins","C001035","Susan Collins",61,"F","Republican","sen","ME",1983,1108,31330,807
-"SenatorDurbin","D000563","Richard Durbin",69,"M","Democrat","sen","IL",1247,2989,45633,1581
-"SenatorEnzi","E000285","Michael Enzi",70,"M","Republican","sen","WY",1160,1133,8946,471
-"SenatorFischer","F000463","Deb Fischer",63,"F","Republican","sen","NE",543,902,8017,115
-"SenatorHagan","H001049","Kay Hagan",61,"F","Democrat","sen","NC",1755,2671,25456,187
-"SenatorHarkin","H000206","Thomas Harkin",74,"M","Democrat","sen","IA",1597,2332,20643,170
-"SenatorHeitkamp","H001069","Heidi Heitkamp",58,"F","Democrat","sen","ND",547,2243,8816,330
-"SenatorIsakson","I000055","John Isakson",69,"M","Republican","sen","GA",1740,556,16308,375
-"SenatorKirk","K000360","Mark Kirk",54,"M","Republican","sen","IL",1340,3218,28938,1761
-"SenatorLeahy","L000174","Patrick Leahy",74,"M","Democrat","sen","VT",1257,3398,22869,59
-"SenatorMenendez","M000639","Robert Menéndez",60,"M","Democrat","sen","NJ",2006,3512,40742,571
-"SenatorReid","R000146","Harry Reid",74,"M","Democrat","sen","NV",2089,2733,214942,153
-"SenatorRisch","R000584","James Risch",71,"M","Republican","sen","ID",535,239,6608,33
-"SenatorSessions","S001141","Jefferson Sessions",67,"M","Republican","sen","AL",1844,1552,31685,103
-"SenatorShaheen","S001181","Jeanne Shaheen",67,"F","Democrat","sen","NH",1619,2809,18004,5638
-"SenatorTimScott","S001184","Tim Scott",48,"M","Republican","sen","SC",1324,2158,63340,2163
-"SenatorTomUdall","U000039","Tom Udall",66,"M","Democrat","sen","NM",1803,1668,15949,5
-"SenatorWicker","W000437","Roger Wicker",63,"M","Republican","sen","MS",1212,1409,13064,282
-"SpeakerBoehner","B000589","John Boehner",64,"M","Republican","rep","OH",2537,14555,658075,9960
-"StabenowPress","S000770","Debbie Stabenow",64,"F","Democrat","sen","MI",473,0,25,0
-"SteveDaines","D000618","Steve Daines",51,"M","Republican","rep","MT",2379,939,2999,455
-"SteveKingIA","K000362","Steve King",65,"M","Republican","rep","IA",1844,887,21189,66
-"SteveScalise","S001176","Steve Scalise",48,"M","Republican","rep","LA",498,1429,5424,3244
-"SteveWorks4You","S000937","Steve Stockman",57,"M","Republican","rep","TX",547,8671,16869,1447
-"SusanWBrooks","B001284","Susan Brooks",53,"F","Republican","rep","IN",542,620,3710,261
-"TGowdySC","G000566","Trey Gowdy",49,"M","Republican","rep","SC",1270,1053,91748,365
-"TXRandy14","W000814","Randy Weber",61,"M","Republican","rep","TX",548,939,2853,229
-"TesterPress","T000464","Jon Tester",57,"M","Democrat","sen","MT",NA,NA,NA,NA
-"TiberiPress","T000462","Patrick Tiberi",51,"M","Republican","rep","OH",614,1124,1423,449
-"TimBishopNY","B001242","Timothy Bishop",64,"M","Democrat","rep","NY",1487,1333,5399,2318
-"ToddRokita","R000592","Todd Rokita",44,"M","Republican","rep","IN",2052,4110,9668,3338
-"TomCoburn","C000560","Thomas Coburn",66,"M","Republican","sen","OK",2025,1283,77875,420
-"TomColeOK04","C001053","Tom Cole",65,"M","Republican","rep","OK",1947,404,5904,79
-"TomLatham","L000111","Tom Latham",66,"M","Republican","rep","IA",2430,1235,10346,1226
-"TomRooney","R000583","Thomas Rooney",43,"M","Republican","rep","FL",1941,2562,13006,4128
-"TulsiPress","G000571","Tulsi Gabbard",33,"F","Democrat","rep","HI",546,730,4850,572
-"USRepDavidJolly","J000296","David Jolly",41,"M","Republican","rep","FL",59,117,203,42
-"USRepKCastor","C001066","Kathy Castor",47,"F","Democrat","rep","FL",290,248,691,237
-"USRepKeating","K000375","William Keating",61,"M","Democrat","rep","MA",1281,669,4484,586
-"USRepLong","L000576","Billy Long",58,"M","Republican","rep","MO",411,1203,1461,549
-"USRepMikeDoyle","D000482","Michael Doyle",60,"M","Democrat","rep","PA",1881,426,6806,33
-"USRepRHinojosa","H000636","Rubén Hinojosa",73,"M","Democrat","rep","TX",1264,1204,5846,436
-"USRepRickNolan","N000127","Richard Nolan",70,"M","Democrat","rep","MN",549,1069,3140,801
-"USRepRodney","F000372","Rodney Frelinghuysen",68,"M","Republican","rep","NJ",435,178,1054,94
-"VernBuchanan","B001260","Vern Buchanan",63,"M","Republican","rep","FL",1972,1639,15027,10964
-"VirginiaFoxx","F000450","Virginia Foxx",71,"F","Republican","rep","NC",2122,2176,12015,1381
-"WaxmanClimate","W000215","Henry Waxman",74,"M","Democrat","rep","CA",677,754,4253,310
-"WhipHoyer","H000874","Steny Hoyer",75,"M","Democrat","rep","MD",1955,6197,44882,3845
-"YvetteClarke","C001067","Yvette Clarke",49,"F","Democrat","rep","NY",1262,3246,8075,3649
+"twitter","id","name","age","gender","party","type","state","joined","days","tweets","followers","following"
+NA,"A000368","Kelly Ayotte",46,"F","Republican","sen","NH",NA,NA,NA,NA,NA
+NA,"B001245","Madeleine Bordallo",81,"F","Democrat","rep","GU",NA,NA,NA,NA,NA
+NA,"C001037","Michael Capuano",62,"M","Democrat","rep","MA",NA,NA,NA,NA,NA
+NA,"C001049","Wm. Clay",57,"M","Democrat","rep","MO",NA,NA,NA,NA,NA
+NA,"C001075","Bill Cassidy",56,"M","Republican","rep","LA",NA,NA,NA,NA,NA
+NA,"D000604","Charles Dent",54,"M","Republican","rep","PA",NA,NA,NA,NA,NA
+NA,"F000457","Alan Franken",63,"M","Democrat","sen","MN",NA,NA,NA,NA,NA
+NA,"G000546","Sam Graves",50,"M","Republican","rep","MO",NA,NA,NA,NA,NA
+NA,"G000555","Kirsten Gillibrand",47,"F","Democrat","sen","NY",NA,NA,NA,NA,NA
+NA,"H001032","Rush Holt",65,"M","Democrat","rep","NJ",NA,NA,NA,NA,NA
+NA,"K000367","Amy Klobuchar",54,"F","Democrat","sen","MN",NA,NA,NA,NA,NA
+NA,"M000689","John Mica",71,"M","Republican","rep","FL",NA,NA,NA,NA,NA
+NA,"M001144","Jeff Miller",55,"M","Republican","rep","FL",NA,NA,NA,NA,NA
+NA,"P000265","Thomas Petri",74,"M","Republican","rep","WI",NA,NA,NA,NA,NA
+NA,"R000011","Nick Rahall",65,"M","Democrat","rep","WV",NA,NA,NA,NA,NA
+NA,"S001162","Allyson Schwartz",65,"F","Democrat","rep","PA",NA,NA,NA,NA,NA
+NA,"S001177","Gregorio Sablan",59,"M","Democrat","rep","MP",NA,NA,NA,NA,NA
+NA,"V000127","David Vitter",53,"M","Republican","sen","LA",NA,NA,NA,NA,NA
+NA,"W000795","Joe Wilson",66,"M","Republican","rep","SC",NA,NA,NA,NA,NA
+NA,"W000810","Rob Woodall",44,"M","Republican","rep","GA",NA,NA,NA,NA,NA
+"AnderCrenshaw","C001045","Ander Crenshaw",69,"M","Republican","rep","FL","2009-02-06 01:48:11",1977,697,7778,198
+"AskGeorge","M000725","George Miller",69,"M","Democrat","rep","CA","2007-07-09 22:04:23",2555,2378,12162,656
+"AustinScottGA08","S001189","Austin Scott",44,"M","Republican","rep","GA","2011-01-06 16:01:46",1278,1270,6862,321
+"BachusAL06","B000013","Spencer Bachus",66,"M","Republican","rep","AL","2009-09-29 22:15:34",1742,497,8130,2
+"BennieGThompson","T000193","Bennie Thompson",66,"M","Democrat","rep","MS","2009-10-14 20:47:03",1727,306,4042,389
+"BettyMcCollum04","M001143","Betty McCollum",60,"F","Democrat","rep","MN","2012-03-06 20:52:11",853,2277,5076,760
+"BillOwensNY","O000169","William Owens",65,"M","Democrat","rep","NY","2010-12-15 21:49:24",1300,1891,4308,884
+"BillPascrell","P000096","Bill Pascrell",77,"M","Democrat","rep","NJ","2009-09-15 17:54:32",1756,752,3698,0
+"BlumenauerMedia","B000574","Earl Blumenauer",65,"M","Democrat","rep","OR","2010-04-27 21:48:06",1532,352,2656,251
+"BobLatta","L000566","Robert Latta",58,"M","Republican","rep","OH","2008-07-11 18:33:24",2187,4325,13816,5400
+"BradSherman","S000344","Brad Sherman",59,"M","Democrat","rep","CA","2009-04-10 13:38:03",1914,431,6395,97
+"BruceBraley","B001259","Bruce Braley",56,"M","Democrat","rep","IA","2009-04-06 21:08:54",1918,5343,16274,10997
+"BuckMcKeon","M000508","Howard McKeon",75,"M","Republican","rep","CA","2008-09-18 15:56:59",2118,1372,13025,5147
+"CBRangel","R000053","Charles Rangel",84,"M","Democrat","rep","NY","2009-02-19 16:17:10",1964,3546,19201,3880
+"Call_Me_Dutch","R000576","C. Ruppersberger",68,"M","Democrat","rep","MD","2011-05-26 14:39:08",1138,1371,4323,1082
+"CandiceMiller","M001150","Candice Miller",60,"F","Republican","rep","MI","2008-06-30 19:41:17",2198,517,8649,406
+"CantwellPress","C000127","Maria Cantwell",55,"F","Democrat","sen","WA","2010-02-25 19:21:52",1593,867,10143,0
+"CathyMcMorris","M001159","Cathy McMorris Rodgers",45,"F","Republican","rep","WA","2008-12-08 23:17:15",2037,3443,21435,5134
+"ChakaFattah","F000043","Chaka Fattah",57,"M","Democrat","rep","PA","2009-06-17 19:39:50",1846,8676,9652,1267
+"ChelliePingree","P000597","Chellie Pingree",59,"F","Democrat","rep","ME","2008-06-02 20:29:56",2226,1198,10502,339
+"ChrisMurphyCT","M001169","Christopher Murphy",40,"M","Democrat","sen","CT","2010-05-31 01:22:43",1498,4264,21733,114
+"ChrisVanHollen","V000128","Chris Van Hollen",55,"M","Democrat","rep","MD","2008-12-15 15:00:29",2030,953,19402,2351
+"ChuckGrassley","G000386","Charles Grassley",80,"M","Republican","sen","IA","2007-11-26 15:17:02",2415,3134,76947,14693
+"ChuckSchumer","S000148","Charles Schumer",63,"M","Democrat","sen","NY","2013-09-16 21:08:18",294,84,1543,0
+"Clyburn","C000537","James Clyburn",74,"M","Democrat","rep","SC","2010-09-07 18:50:22",1399,782,23602,1028
+"ConawayTX11","C001062","K. Conaway",66,"M","Republican","rep","TX","2011-05-09 13:56:50",1155,564,4024,1433
+"CongBillPosey","P000599","Bill Posey",66,"M","Republican","rep","FL","2009-03-18 15:05:42",1937,1094,8134,930
+"CongCulberson","C001048","John Culberson",57,"M","Republican","rep","TX","2009-03-13 14:54:29",1942,1002,6075,563
+"CongHuelskamp","H001057","Tim Huelskamp",45,"M","Republican","rep","KS","2011-01-04 01:43:06",1280,4221,10474,2142
+"CongMikeSimpson","S001148","Michael Simpson",63,"M","Republican","rep","ID","2009-09-21 20:26:26",1750,280,3119,64
+"CongPalazzo","P000601","Steven Palazzo",44,"M","Republican","rep","MS","2011-05-16 20:52:25",1148,1180,5512,1600
+"CongressmanDan","B001271","Dan Benishek",62,"M","Republican","rep","MI","2011-01-25 14:54:16",1259,287,8746,7603
+"CongressmanGT","T000467","Glenn Thompson",54,"M","Republican","rep","PA","2009-01-14 04:54:58",2000,3362,8979,391
+"CongressmanRuiz","R000599","Raul Ruiz",41,"M","Democrat","rep","CA","2013-01-14 18:58:43",539,148,1952,1
+"CynthiaLummis","L000571","Cynthia Lummis",59,"F","Republican","rep","WY","2009-03-04 20:44:59",1951,1196,9639,6177
+"DarrellIssa","I000056","Darrell Issa",60,"M","Republican","rep","CA","2009-03-02 17:39:00",1953,17590,161109,37875
+"DaveLoebsack","L000565","David Loebsack",61,"M","Democrat","rep","IA","2012-03-01 16:52:06",858,312,2122,519
+"DaveReichert","R000578","David Reichert",63,"M","Republican","rep","WA","2008-09-02 20:12:26",2134,1603,9087,3060
+"DelegateDonna","C000380","Donna Christensen",68,"F","Democrat","rep","VI","2011-03-10 20:02:19",1215,986,5318,244
+"DesJarlaisTN04","D000616","Scott DesJarlais",50,"M","Republican","rep","TN","2011-01-07 21:47:44",1277,2136,6468,1121
+"DocHastings","H000329","Doc Hastings",73,"M","Republican","rep","WA","2011-10-31 12:59:01",980,810,3589,651
+"DorisMatsui","M001163","Doris Matsui",69,"F","Democrat","rep","CA","2009-05-06 19:20:50",1888,1023,8668,6237
+"DrPhilRoe","R000582","David Roe",69,"M","Republican","rep","TN","2009-06-30 20:07:34",1833,1413,8115,204
+"EFaleomavaega","F000010","Eni Faleomavaega",70,"M","Democrat","rep","AS","2013-07-08 14:57:54",364,0,82,0
+"EleanorNorton","N000147","Eleanor Norton",77,"F","Democrat","rep","DC","2009-03-10 14:47:46",1945,1129,12531,161
+"Farenthold","F000460","Blake Farenthold",52,"M","Republican","rep","TX","2008-12-05 12:32:52",2040,3471,6631,863
+"FrankPallone","P000034","Frank Pallone",62,"M","Democrat","rep","NJ","2009-04-16 13:51:56",1908,5273,12813,520
+"GKButterfield","B001251","George Butterfield",67,"M","Democrat","rep","NC","2011-12-09 17:17:22",941,816,3714,302
+"GOPLeader","C001046","Eric Cantor",51,"M","Republican","rep","VA","2009-01-12 04:57:20",2002,7467,225487,8908
+"GOPWhip","M001165","Kevin McCarthy",49,"M","Republican","rep","CA","2009-01-29 22:28:48",1985,4667,50481,1204
+"GerryConnolly","C001078","Gerald Connolly",64,"M","Democrat","rep","VA","2009-09-29 23:17:33",1742,2819,6786,190
+"GraceNapolitano","N000179","Grace Napolitano",77,"F","Democrat","rep","CA","2010-06-30 19:48:06",1468,856,6728,223
+"GrahamBlog","G000359","Lindsey Graham",59,"M","Republican","sen","SC","2008-05-20 13:57:21",2239,3379,62456,2195
+"GreggHarper","H001045","Gregg Harper",58,"M","Republican","rep","MS","2009-03-11 03:02:52",1944,2049,10770,378
+"GregoryMeeks","M001137","Gregory Meeks",60,"M","Democrat","rep","NY","2009-03-04 18:36:27",1951,1275,8687,414
+"HerreraBeutler","H001056","Jaime Herrera Beutler",35,"F","Republican","rep","WA","2011-01-25 22:36:44",1259,184,5642,1111
+"HowardCoble","C000556","Howard Coble",83,"M","Republican","rep","NC","2011-06-10 02:48:54",1123,654,3870,461
+"InhofePress","I000024","James Inhofe",79,"M","Republican","sen","OK","2009-02-10 21:12:51",1973,4892,10315,1376
+"JAHimes","H001047","James Himes",48,"M","Democrat","rep","CT","2009-04-16 02:38:33",1908,4739,13552,650
+"JackKingston","K000220","Jack Kingston",59,"M","Republican","rep","GA","2009-04-30 12:52:55",1894,1593,11359,483
+"JacksonLeeTX18","J000032","Sheila Jackson Lee",64,"F","Democrat","rep","TX","2009-10-07 16:13:13",1734,1835,12370,1210
+"JanSchakowsky","S001145","Janice Schakowsky",70,"F","Democrat","rep","IL","2009-03-13 16:03:17",1942,1984,14467,817
+"JaredPolis","P000598","Jared Polis",39,"M","Democrat","rep","CO","2008-07-09 03:04:04",2189,3339,28325,2902
+"JasonInTheHouse","C001076","Jason Chaffetz",47,"M","Republican","rep","UT","2008-12-02 04:59:53",2043,4803,72417,21433
+"JeffFlake","F000444","Jeff Flake",51,"M","Republican","sen","AZ","2008-08-30 17:00:58",2137,914,23747,202
+"JeffFortenberry","F000449","Jeff Fortenberry",53,"M","Republican","rep","NE","2009-01-09 16:14:19",2005,1298,9432,2145
+"JerryMoran","M000934","Jerry Moran",60,"M","Republican","sen","KS","2009-01-05 14:25:22",2009,2611,16338,2725
+"JimGerlach","G000549","Jim Gerlach",59,"M","Republican","rep","PA","2009-05-18 20:04:27",1876,669,8096,201
+"JimLangevin","L000559","James Langevin",50,"M","Democrat","rep","RI","2009-01-12 18:36:58",2002,2166,8640,2138
+"JimPressOffice","S000244","F. Sensenbrenner",71,"M","Republican","rep","WI","2012-09-28 19:31:33",647,161,1502,240
+"Jim_Jordan","J000289","Jim Jordan",50,"M","Republican","rep","OH","2008-12-16 17:20:24",2029,829,17957,5169
+"Jim_Moran","M000933","James Moran",69,"M","Democrat","rep","VA","2009-06-15 19:00:16",1848,1561,10994,237
+"JoaquinCastrotx","C001091","Joaquin Castro",39,"M","Democrat","rep","TX","2010-12-28 18:41:02",1287,3212,20793,546
+"JohnBoozman","B001236","John Boozman",63,"M","Republican","sen","AR","2007-04-27 16:05:52",2628,1352,20104,482
+"JohnCarneyde","C001083","John Carney",58,"M","Democrat","rep","DE","2011-01-13 15:58:13",1271,1272,6726,1017
+"JohnCornyn","C001056","John Cornyn",62,"M","Republican","sen","TX","2008-02-07 19:52:55",2342,13350,58693,9072
+"John_Dingell","D000355","John Dingell",88,"M","Democrat","rep","MI","2010-01-27 18:53:50",1622,2545,11040,2184
+"JudgeCarter","C001051","John Carter",72,"M","Republican","rep","TX","2008-12-10 21:00:58",2035,3677,10310,3027
+"JudgeTedPoe","P000592","Ted Poe",65,"M","Republican","rep","TX","2009-09-14 16:40:24",1757,2203,11711,474
+"JuliaBrownley26","B001285","Julia Brownley",61,"F","Democrat","rep","CA","2013-03-05 14:51:28",489,432,1390,409
+"KeithEllison","E000288","Keith Ellison",50,"M","Democrat","rep","MN","2008-03-12 21:38:12",2308,8132,55040,2707
+"KeithRothfus","R000598","Keith Rothfus",52,"M","Republican","rep","PA","2013-02-06 21:51:36",516,2046,1986,478
+"KenCalvert","C000059","Ken Calvert",61,"M","Republican","rep","CA","2009-03-02 22:30:20",1953,2197,4629,228
+"LEETERRYNE","T000459","Lee Terry",52,"M","Republican","rep","NE","2008-12-22 21:14:05",2023,3538,8634,563
+"LamarSmithTX21","S000583","Lamar Smith",66,"M","Republican","rep","TX","2008-08-14 21:53:40",2153,843,12129,3531
+"LisaMurkowski","M001153","Lisa Murkowski",57,"F","Republican","sen","AK","2008-12-11 21:55:19",2034,2184,25160,347
+"LorettaSanchez","S000030","Loretta Sanchez",54,"F","Democrat","rep","CA","2010-01-25 19:08:10",1624,1729,14755,14628
+"LouiseSlaughter","S000480","Louise Slaughter",84,"F","Democrat","rep","NY","2009-08-05 15:53:07",1797,1484,9439,646
+"LuisGutierrez","G000535","Luis Gutiérrez",60,"M","Democrat","rep","IL","2011-06-22 14:11:23",1111,13,184,22
+"MacTXPress","T000238","Mac Thornberry",56,"M","Republican","rep","TX","2011-09-21 18:42:06",1020,299,2758,974
+"MarioDB","D000600","Mario Diaz-Balart",52,"M","Republican","rep","FL","2009-05-02 00:52:48",1892,1977,13789,152
+"MarkAmodeiNV2","A000369","Mark Amodei",56,"M","Republican","rep","NV","2011-11-01 13:43:55",979,723,4221,1691
+"MarkUdall","U000038","Mark Udall",64,"M","Democrat","sen","CO","2007-08-11 19:18:18",2522,3714,30878,217
+"MarkWarner","W000805","Mark Warner",59,"M","Democrat","sen","VA","2007-07-12 14:03:33",2552,3588,47990,11029
+"MarkeyMemo","M000133","Edward Markey",68,"M","Democrat","sen","MA","2009-02-20 15:49:29",1963,3517,21047,91
+"MarshaBlackburn","B001243","Marsha Blackburn",62,"F","Republican","rep","TN","2011-04-06 18:05:33",1188,2431,14870,2293
+"MartinHeinrich","H001046","Martin Heinrich",42,"M","Democrat","sen","NM","2013-01-17 20:24:19",536,759,4708,10
+"MaxineWaters","W000187","Maxine Waters",75,"F","Democrat","rep","CA","2009-04-30 15:17:45",1894,1170,22847,860
+"MazieHirono","H001042","Mazie Hirono",66,"F","Democrat","sen","HI","2009-11-24 03:10:37",1686,3280,11898,1176
+"McCaskillOffice","M001170","Claire McCaskill",60,"F","Democrat","sen","MO","2009-07-15 16:40:06",1818,2572,5547,1428
+"McCaulPressShop","M001157","Michael McCaul",52,"M","Republican","rep","TX","2009-03-25 03:54:11",1930,850,6905,196
+"McConnellPress","M000355","Mitch McConnell",72,"M","Republican","sen","KY","2011-07-21 18:25:30",1082,4962,36151,252
+"MichaelCBurgess","B001248","Michael Burgess",63,"M","Republican","rep","TX","2008-08-06 15:25:19",2161,3251,13204,1010
+"MicheleBachmann","B001256","Michele Bachmann",58,"F","Republican","rep","MN","2008-12-18 16:10:29",2027,2909,220765,2857
+"MikeCrapo","C000880","Michael Crapo",63,"M","Republican","sen","ID","2012-06-05 22:16:35",762,3841,9159,422
+"MikeKellyPA","K000376","Mike Kelly",66,"M","Republican","rep","PA","2012-11-08 20:31:21",606,704,4734,527
+"Mike_Johanns","J000291","Mike Johanns",64,"M","Republican","sen","NE","2010-09-24 20:55:55",1382,579,10365,139
+"NancyPelosi","P000197","Nancy Pelosi",74,"F","Democrat","rep","CA","2008-08-07 15:35:02",2160,2436,499229,343
+"NikiInTheHouse","T000465","Niki Tsongas",68,"F","Democrat","rep","MA","2011-01-25 20:57:25",1259,2705,6900,1005
+"NitaLowey","L000480","Nita Lowey",77,"F","Democrat","rep","NY","2010-12-01 16:36:35",1314,946,8195,811
+"NydiaVelazquez","V000081","Nydia Velázquez",61,"F","Democrat","rep","NY","2010-07-08 18:18:20",1460,183,5902,2987
+"OlsonPressShop","O000168","Pete Olson",51,"M","Republican","rep","TX","2009-02-04 13:40:57",1979,2965,4365,1496
+"PatrickMcHenry","M001156","Patrick McHenry",38,"M","Republican","rep","NC","2009-03-30 16:42:39",1925,2205,13776,3840
+"PattyMurray","M001111","Patty Murray",63,"F","Democrat","sen","WA","2011-05-04 20:23:35",1160,5352,26976,2111
+"PedroPierluisi","P000596","Pedro Pierluisi",55,"M","Democrat","rep","PR","2009-04-24 16:43:30",1900,6379,35407,10055
+"PeteSessions","S000250","Pete Sessions",59,"M","Republican","rep","TX","2009-03-16 17:54:52",1939,3141,13624,757
+"PeterRoskam","R000580","Peter Roskam",52,"M","Republican","rep","IL","2009-02-04 00:11:56",1979,3361,13847,4463
+"PeterWelch","W000800","Peter Welch",67,"M","Democrat","rep","VT","2013-05-07 16:10:47",426,543,2530,1446
+"RalphHallPress","H000067","Ralph Hall",91,"M","Republican","rep","TX","2013-02-06 19:35:46",516,387,1330,41
+"RandyNeugebauer","N000182","Randy Neugebauer",64,"M","Republican","rep","TX","2009-04-22 17:46:22",1902,3253,9680,2966
+"Randy_Forbes","F000445","J. Forbes",62,"M","Republican","rep","VA","2008-06-18 18:32:37",2210,3031,12889,4985
+"Raul_Labrador","L000573","Raúl Labrador",46,"M","Republican","rep","ID","2011-02-02 16:26:52",1251,947,8702,511
+"RepAaronSchock","S001179","Aaron Schock",33,"M","Republican","rep","IL",NA,NA,NA,NA,NA
+"RepAdamSchiff","S001150","Adam Schiff",54,"M","Democrat","rep","CA","2009-04-07 17:54:35",1917,1615,9775,744
+"RepAdamSmith","S000510","Adam Smith",49,"M","Democrat","rep","WA","2009-07-21 21:31:55",1812,1332,7923,1198
+"RepAdrianSmith","S001172","Adrian Smith",43,"M","Republican","rep","NE","2011-05-10 12:52:01",1154,1097,3021,175
+"RepAlGreen","G000553","Al Green",66,"M","Democrat","rep","TX","2010-06-16 17:20:23",1482,243,6654,65
+"RepAlanNunnelee","N000186","Alan Nunnelee",55,"M","Republican","rep","MS","2011-01-19 19:50:26",1265,1459,5737,534
+"RepAndreCarson","C001072","André Carson",39,"M","Democrat","rep","IN","2010-10-06 15:47:50",1370,1815,8966,831
+"RepAndyBarr","B001282","Garland Barr",40,"M","Republican","rep","KY","2013-01-14 15:29:49",539,1487,4349,1091
+"RepAndyHarrisMD","H001052","Andy Harris",57,"M","Republican","rep","MD","2012-11-20 18:31:27",594,1141,3250,381
+"RepAnnWagner","W000812","Ann Wagner",51,"F","Republican","rep","MO","2013-01-01 00:01:45",552,1204,6238,2831
+"RepAnnaEshoo","E000215","Anna Eshoo",71,"F","Democrat","rep","CA","2011-02-08 21:36:03",1245,929,7632,573
+"RepAnnieKuster","K000382","Ann Kuster",57,"F","Democrat","rep","NH","2013-01-03 20:29:22",550,908,5715,7741
+"RepBarbaraLee","L000551","Barbara Lee",68,"F","Democrat","rep","CA","2011-02-07 16:28:28",1246,2076,17011,627
+"RepBeatty","B001281","Joyce Beatty",64,"F","Democrat","rep","OH","2013-06-19 17:47:09",383,1094,1736,773
+"RepBecerra","B000287","Xavier Becerra",56,"M","Democrat","rep","CA","2010-04-16 19:04:13",1543,1260,15349,1809
+"RepBenRayLujan","L000570","Ben Luján",42,"M","Democrat","rep","NM","2009-01-22 01:00:32",1992,812,7101,155
+"RepBera","B001287","Ami Bera",49,"M","Democrat","rep","CA","2012-11-16 01:39:54",598,826,4644,82
+"RepBetoORourke","O000170","Beto O'Rourke",41,"M","Democrat","rep","TX","2013-01-30 14:52:51",523,1194,4737,716
+"RepBillEnyart","E000292","William Enyart",64,"M","Democrat","rep","IL","2013-01-07 14:42:39",546,239,2095,20
+"RepBillFlores","F000461","Bill Flores",60,"M","Republican","rep","TX","2011-01-12 15:20:23",1272,3229,8058,1617
+"RepBillFoster","F000454","Bill Foster",58,"M","Democrat","rep","IL","2013-01-11 18:17:11",542,847,2951,1267
+"RepBillJohnson","J000292","Bill Johnson",59,"M","Republican","rep","OH","2010-11-03 14:33:04",1342,2500,7497,677
+"RepBillShuster","S001154","Bill Shuster",53,"M","Republican","rep","PA","2009-03-02 20:04:02",1953,2160,10344,742
+"RepBlainePress","L000569","Blaine Luetkemeyer",62,"M","Republican","rep","MO","2013-09-09 19:53:08",301,460,897,145
+"RepBobGibbs","G000563","Bob Gibbs",60,"M","Republican","rep","OH","2011-01-06 17:17:21",1278,1578,7344,3252
+"RepBobbyRush","R000515","Bobby Rush",67,"M","Democrat","rep","IL","2011-05-25 20:59:25",1139,509,4260,146
+"RepBobbyScott","S000185","Robert Scott",67,"M","Democrat","rep","VA","2010-07-01 19:57:00",1467,989,7857,1337
+"RepBonamici","B001278","Suzanne Bonamici",59,"F","Democrat","rep","OR","2012-04-20 16:30:32",808,551,3596,822
+"RepBoustany","B001255","Charles Boustany",58,"M","Republican","rep","LA","2011-02-08 21:15:08",1245,300,4689,252
+"RepBradWenstrup","W000815","Brad Wenstrup",56,"M","Republican","rep","OH","2012-03-08 16:25:14",851,1979,2692,760
+"RepBrady","B001227","Robert Brady",69,"M","Democrat","rep","PA","2010-05-26 18:53:52",1503,495,6208,579
+"RepBrianHiggins","H001038","Brian Higgins",54,"M","Democrat","rep","NY","2009-04-20 16:47:06",1904,5595,11588,1723
+"RepByrne","B001289","Bradley Byrne",59,"M","Republican","rep","AL","2013-12-19 19:42:18",200,918,2043,1360
+"RepCardenas","C001097","Tony Cárdenas",51,"M","Democrat","rep","CA","2013-02-26 16:12:35",496,2282,2614,857
+"RepCartwright","C001090","Matthew Cartwright",53,"M","Democrat","rep","PA","2012-08-23 20:05:56",683,1629,2945,1175
+"RepCheri","B001286","Cheri Bustos",52,"F","Democrat","rep","IL","2013-01-15 19:15:03",538,650,4899,3590
+"RepChrisCollins","C001092","Chris Collins",64,"M","Republican","rep","NY","2013-01-03 16:55:01",550,1876,2479,100
+"RepChrisGibson","G000564","Christopher Gibson",50,"M","Republican","rep","NY","2011-01-06 23:23:12",1278,881,6235,201
+"RepChrisSmith","S000522","Christopher Smith",61,"M","Republican","rep","NJ","2013-03-22 18:03:53",472,196,2167,50
+"RepChrisStewart","S001192","Chris Stewart",54,"M","Republican","rep","UT","2013-01-08 21:08:19",545,684,2548,486
+"RepChuck","F000459","Charles Fleischmann",51,"M","Republican","rep","TN","2011-01-07 15:46:29",1277,1095,5586,620
+"RepCicilline","C001084","David Cicilline",53,"M","Democrat","rep","RI","2012-01-12 16:26:40",907,383,2037,1987
+"RepCleaver","C001061","Emanuel Cleaver",69,"M","Democrat","rep","MO","2010-07-06 19:14:47",1462,1509,10646,519
+"RepCohen","C001068","Steve Cohen",65,"M","Democrat","rep","TN","2010-07-02 15:10:21",1466,2431,10521,417
+"RepCorrineBrown","B000911","Corrine Brown",67,"F","Democrat","rep","FL","2011-05-04 13:48:56",1160,903,6099,241
+"RepCoryGardner","G000562","Cory Gardner",39,"M","Republican","rep","CO","2011-01-07 17:02:56",1277,1594,6913,636
+"RepCuellar","C001063","Henry Cuellar",58,"M","Democrat","rep","TX","2010-11-01 20:20:17",1344,2081,7852,1855
+"RepCummings","C000984","Elijah Cummings",63,"M","Democrat","rep","MD","2012-08-28 16:37:01",678,1182,7100,676
+"RepDLamborn","L000564","Doug Lamborn",60,"M","Republican","rep","CO","2012-05-18 16:01:17",780,1289,3372,630
+"RepDWStweets","W000797","Debbie Wasserman Schultz",47,"F","Democrat","rep","FL","2013-02-01 20:31:25",521,778,4407,1664
+"RepDanKildee","K000380","Daniel Kildee",55,"M","Democrat","rep","MI","2012-12-29 15:05:47",555,942,8691,6019
+"RepDanMaffei","M001171","Daniel Maffei",46,"M","Democrat","rep","NY","2013-01-03 13:59:34",550,537,2475,8
+"RepDannyDavis","D000096","Danny Davis",72,"M","Democrat","rep","IL","2012-08-29 12:31:09",677,164,833,235
+"RepDaveCamp","C000071","Dave Camp",61,"M","Republican","rep","MI","2009-04-01 19:41:43",1923,1728,16032,6311
+"RepDaveJoyce","J000295","David Joyce",57,"M","Republican","rep","OH","2012-11-28 21:12:14",586,1486,2882,2159
+"RepDavid","S001183","David Schweikert",52,"M","Republican","rep","AZ","2010-12-21 19:48:02",1294,2943,9732,1898
+"RepDavidEPrice","P000523","David Price",73,"M","Democrat","rep","NC","2010-06-14 19:44:06",1484,1723,6497,2378
+"RepDavidScott","S001157","David Scott",69,"M","Democrat","rep","GA","2010-07-20 14:10:32",1448,1479,6336,784
+"RepDavidValadao","V000129","David Valadao",37,"M","Republican","rep","CA","2013-01-28 16:19:14",525,347,2137,193
+"RepDeSantis","D000621","Ron DeSantis",35,"M","Republican","rep","FL","2013-01-03 21:20:17",550,1239,5030,1440
+"RepDelBene","D000617","Suzan DelBene",52,"F","Democrat","rep","WA","2012-12-07 14:40:48",577,998,3626,310
+"RepDennisRoss","R000593","Dennis Ross",54,"M","Republican","rep","FL","2009-04-20 20:43:13",1904,11236,7777,1224
+"RepDennyHeck","H001064","Denny Heck",61,"M","Democrat","rep","WA","2013-01-07 14:55:36",546,944,2102,422
+"RepDerekKilmer","K000381","Derek Kilmer",40,"M","Democrat","rep","WA","2013-01-03 22:15:02",550,412,3084,48
+"RepDianaDeGette","D000197","Diana DeGette",56,"F","Democrat","rep","CO","2009-04-03 16:41:06",1921,1043,11377,11113
+"RepDianeBlack","B001273","Diane Black",63,"F","Republican","rep","TN","2010-02-01 22:58:22",1617,2604,9486,1380
+"RepDinaTitus","T000468","Dina Titus",64,"F","Democrat","rep","NV","2010-03-11 21:05:31",1579,1897,4906,1210
+"RepDonYoung","Y000033","Don Young",81,"M","Republican","rep","AK","2009-05-01 18:31:38",1893,735,7615,372
+"RepDonaldPayne","P000604","Donald Payne",55,"M","Democrat","rep","NJ","2013-02-06 22:52:35",516,916,1771,514
+"RepDonnaEdwards","E000290","Donna Edwards",56,"F","Democrat","rep","MD","2009-10-15 16:04:37",1726,2596,14710,235
+"RepDougCollins","C001093","Doug Collins",47,"M","Republican","rep","GA","2013-01-04 13:43:55",549,1139,3066,589
+"RepDuckworth","D000622","Tammy Duckworth",46,"F","Democrat","rep","IL","2013-01-03 18:59:33",550,803,6750,2301
+"RepEBJ","J000126","Eddie Johnson",78,"F","Democrat","rep","TX","2010-07-19 14:25:48",1449,5137,9280,854
+"RepEdRoyce","R000487","Edward Royce",62,"M","Republican","rep","CA","2011-02-03 12:40:15",1250,1161,8296,348
+"RepEdWhitfield","W000413","Ed Whitfield",71,"M","Republican","rep","KY","2011-01-06 21:36:56",1278,327,3718,199
+"RepEliotEngel","E000179","Eliot Engel",67,"M","Democrat","rep","NY","2010-07-07 20:34:17",1461,791,6280,609
+"RepErikPaulsen","P000594","Erik Paulsen",49,"M","Republican","rep","MN","2008-11-20 15:28:22",2055,2800,11221,2188
+"RepEsty","E000293","Elizabeth Esty",54,"F","Democrat","rep","CT","2013-01-04 17:36:04",549,1127,3842,713
+"RepFilemonVela","V000132","Filemon Vela",51,"M","Democrat","rep","TX","2013-01-12 16:24:06",541,216,2030,128
+"RepFincherTN08","F000458","Stephen Fincher",41,"M","Republican","rep","TN","2011-02-08 16:24:26",1245,2535,6519,1121
+"RepFitzpatrick","F000451","Michael Fitzpatrick",51,"M","Republican","rep","PA","2011-01-14 00:38:49",1270,3363,6931,940
+"RepFleming","F000456","John Fleming",63,"M","Republican","rep","LA","2009-10-23 15:42:30",1718,1159,8871,230
+"RepFrankLucas","L000491","Frank Lucas",54,"M","Republican","rep","OK","2011-01-25 15:24:07",1259,340,2246,59
+"RepFredUpton","U000031","Fred Upton",61,"M","Republican","rep","MI","2010-03-18 17:34:35",1572,1931,11064,3696
+"RepGaramendi","G000559","John Garamendi",69,"M","Democrat","rep","CA","2009-11-10 00:31:12",1700,7881,9917,8025
+"RepGarrett","G000548","Scott Garrett",55,"M","Republican","rep","NJ","2012-11-20 15:44:58",594,511,3126,191
+"RepGaryMiller","M001139","Gary Miller",65,"M","Republican","rep","CA","2010-06-14 18:12:40",1484,290,4803,71
+"RepGaryPeters","P000595","Gary Peters",55,"M","Democrat","rep","MI","2011-01-10 19:17:36",1274,1309,6145,311
+"RepGeneGreen","G000410","Gene Green",66,"M","Democrat","rep","TX","2010-02-05 16:37:13",1613,324,5709,226
+"RepGoodlatte","G000289","Bob Goodlatte",61,"M","Republican","rep","VA","2009-05-05 13:18:55",1889,2498,12242,213
+"RepGosar","G000565","Paul Gosar",55,"M","Republican","rep","AZ","2011-01-20 17:44:27",1264,4490,10965,2988
+"RepGraceMeng","M001188","Grace Meng",38,"F","Democrat","rep","NY","2012-12-31 20:28:41",553,1451,4081,545
+"RepGregWalden","W000791","Greg Walden",57,"M","Republican","rep","OR","2009-04-16 17:31:34",1908,1095,10340,168
+"RepGusBilirakis","B001257","Gus Bilirakis",51,"M","Republican","rep","FL","2009-03-23 17:56:32",1932,2624,10549,1187
+"RepGuthrie","G000558","Brett Guthrie",50,"M","Republican","rep","KY","2013-09-26 14:37:17",284,282,656,335
+"RepGwenMoore","M001160","Gwen Moore",63,"F","Democrat","rep","WI","2009-03-03 20:02:57",1952,3218,10597,485
+"RepHalRogers","R000395","Harold Rogers",76,"M","Republican","rep","KY","2012-04-10 19:59:22",818,1442,3735,421
+"RepHanabusa","H001050","Colleen Hanabusa",63,"F","Democrat","rep","HI","2011-01-08 01:13:45",1276,1017,5984,813
+"RepHankJohnson","J000288","Henry Johnson",59,"M","Democrat","rep","GA","2009-03-16 18:52:49",1939,1588,9991,359
+"RepHartzler","H001053","Vicky Hartzler",53,"F","Republican","rep","MO","2011-01-13 15:38:52",1271,2614,7085,683
+"RepHastingsFL","H000324","Alcee Hastings",77,"M","Democrat","rep","FL","2014-04-08 14:53:21",90,44,209,31
+"RepHensarling","H001036","Jeb Hensarling",57,"M","Republican","rep","TX","2009-01-02 23:08:57",2012,564,11311,791
+"RepHolding","H001065","George Holding",46,"M","Republican","rep","NC","2013-01-03 18:27:36",550,346,3030,264
+"RepHorsford","H001066","Steven Horsford",41,"M","Democrat","rep","NV","2011-10-13 02:23:25",998,1349,5413,1230
+"RepHuffman","H001068","Jared Huffman",50,"M","Democrat","rep","CA","2013-01-08 14:52:00",545,895,3309,600
+"RepHuizenga","H001058","Bill Huizenga",45,"M","Republican","rep","MI","2011-01-04 14:01:28",1280,4046,7944,3469
+"RepHultgren","H001059","Randy Hultgren",48,"M","Republican","rep","IL","2011-01-13 18:03:42",1271,1976,6818,1745
+"RepJBridenstine","B001283","Jim Bridenstine",39,"M","Republican","rep","OK","2013-01-15 17:33:38",538,898,13245,2559
+"RepJasonSmith","S001195","Jason Smith",34,"M","Republican","rep","MO","2013-07-26 16:13:03",346,1223,2116,1085
+"RepJeffDenham","D000612","Jeff Denham",46,"M","Republican","rep","CA","2011-02-07 15:01:35",1246,1590,7651,1363
+"RepJeffDuncan","D000615","Jeff Duncan",48,"M","Republican","rep","SC","2011-01-19 20:45:16",1265,2644,18449,7030
+"RepJeffries","J000294","Hakeem Jeffries",43,"M","Democrat","rep","NY","2012-01-18 21:54:44",901,564,4190,607
+"RepJerryNadler","N000002","Jerrold Nadler",67,"M","Democrat","rep","NY","2009-05-15 18:37:39",1879,921,6824,921
+"RepJimCooper","C000754","Jim Cooper",60,"M","Democrat","rep","TN","2009-03-02 14:25:32",1953,669,5930,325
+"RepJimCosta","C001059","Jim Costa",62,"M","Democrat","rep","CA","2011-01-31 18:42:23",1253,725,2628,431
+"RepJimMatheson","M001142","Jim Matheson",54,"M","Democrat","rep","UT","2009-06-10 02:35:22",1853,1160,8320,83
+"RepJimMcDermott","M000404","Jim McDermott",77,"M","Democrat","rep","WA","2010-04-12 15:27:16",1547,1621,10546,1077
+"RepJimRenacci","R000586","James Renacci",55,"M","Republican","rep","OH","2011-01-11 17:20:35",1273,1882,7376,600
+"RepJoeBarton","B000213","Joe Barton",64,"M","Republican","rep","TX","2009-02-02 20:30:20",1981,1102,13672,84
+"RepJoeCourtney","C001069","Joe Courtney",61,"M","Democrat","rep","CT","2009-10-26 19:45:09",1715,2985,8465,1754
+"RepJoeCrowley","C001038","Joseph Crowley",52,"M","Democrat","rep","NY","2010-02-05 16:39:11",1613,1170,6801,350
+"RepJoeGarcia","G000573","Joe Garcia",50,"M","Democrat","rep","FL","2012-11-09 21:29:03",605,1515,1976,609
+"RepJoeHeck","H001055","Joseph Heck",52,"M","Republican","rep","NV","2010-12-02 23:59:37",1313,2404,6885,83
+"RepJoeKennedy","K000379","Joseph Kennedy",33,"M","Democrat","rep","MA","2013-01-02 19:33:36",551,1170,11254,130
+"RepJoePitts","P000373","Joseph Pitts",74,"M","Republican","rep","PA","2010-10-04 15:09:48",1372,810,5648,58
+"RepJohnBarrow","B001252","John Barrow",58,"M","Democrat","rep","GA","2009-03-04 18:34:00",1951,856,7714,403
+"RepJohnCampbell","C001064","John Campbell",59,"M","Republican","rep","CA","2011-02-07 15:46:51",1246,633,6071,369
+"RepJohnConyers","C000714","John Conyers",85,"M","Democrat","rep","MI","2010-04-30 14:49:06",1529,1096,13087,593
+"RepJohnDelaney","D000620","John Delaney",51,"M","Democrat","rep","MD","2012-11-09 20:40:22",605,1839,2881,613
+"RepJohnDuncanJr","D000533","John Duncan",67,"M","Republican","rep","TN","2013-09-19 14:50:04",291,193,793,178
+"RepJohnKline","K000363","John Kline",66,"M","Republican","rep","MN","2009-09-22 14:43:45",1749,2311,6677,188
+"RepJohnLarson","L000557","John Larson",66,"M","Democrat","rep","CT","2009-06-24 21:47:31",1839,1141,8647,333
+"RepJohnLewis","L000287","John Lewis",74,"M","Democrat","rep","GA","2009-04-07 13:49:52",1917,1003,35925,174
+"RepJohnSarbanes","S001168","John Sarbanes",52,"M","Democrat","rep","MD","2011-08-29 18:44:47",1043,414,3900,387
+"RepJohnYarmuth","Y000062","John Yarmuth",66,"M","Democrat","rep","KY","2011-10-04 15:07:38",1007,1295,7487,219
+"RepJonRunyan","R000594","Jon Runyan",40,"M","Republican","rep","NJ","2011-06-01 20:22:57",1132,748,5488,584
+"RepJoseSerrano","S000248","José Serrano",70,"M","Democrat","rep","NY","2009-04-20 16:06:56",1904,1846,10394,559
+"RepJuanVargas","V000130","Juan Vargas",53,"M","Democrat","rep","CA","2013-03-11 19:04:01",483,299,2147,51
+"RepJudyChu","C001080","Judy Chu",61,"F","Democrat","rep","CA","2010-09-22 15:18:17",1384,1370,9376,823
+"RepJustinAmash","A000367","Justin Amash",34,"M","Republican","rep","MI","2011-01-04 07:09:11",1280,6741,48941,2677
+"RepKClark","C001101","Katherine Clark",51,"F","Democrat","rep","MA","2014-01-15 18:53:47",173,368,1448,876
+"RepKarenBass","B001270","Karen Bass",60,"F","Democrat","rep","CA","2011-01-18 20:25:36",1266,1701,19885,15391
+"RepKayGranger","G000377","Kay Granger",71,"F","Republican","rep","TX","2010-07-01 17:14:51",1467,1119,7604,1070
+"RepKenMarchant","M001158","Kenny Marchant",63,"M","Republican","rep","TX","2009-03-12 16:19:18",1943,4529,11603,2226
+"RepKerryB","B001280","Kerry Bentivolio",62,"M","Republican","rep","MI","2012-11-23 16:41:08",591,950,3135,1404
+"RepKevinBrady","B000755","Kevin Brady",59,"M","Republican","rep","TX","2009-02-02 19:57:06",1981,6274,12454,340
+"RepKevinCramer","C001096","Kevin Cramer",53,"M","Republican","rep","ND","2012-12-30 20:54:06",554,691,2902,616
+"RepKevinYoder","Y000063","Kevin Yoder",38,"M","Republican","rep","KS","2011-02-16 00:04:41",1237,3435,7203,1354
+"RepKinzinger","K000378","Adam Kinzinger",36,"M","Republican","rep","IL","2010-11-24 21:04:11",1321,1941,11135,924
+"RepKirkpatrick","K000368","Ann Kirkpatrick",64,"F","Democrat","rep","AZ","2013-01-14 19:53:56",539,898,4017,1040
+"RepKristiNoem","N000184","Kristi Noem",42,"F","Republican","rep","SD","2011-01-07 18:44:34",1277,1658,13236,339
+"RepLaMalfa","L000578","Doug LaMalfa",54,"M","Republican","rep","CA","2013-01-07 20:07:58",546,183,1631,770
+"RepLanceNJ7","L000567","Leonard Lance",62,"M","Republican","rep","NJ","2012-06-20 20:19:40",747,591,2314,218
+"RepLankford","L000575","James Lankford",46,"M","Republican","rep","OK","2010-12-12 20:33:07",1303,2168,10737,441
+"RepLarryBucshon","B001275","Larry Bucshon",52,"M","Republican","rep","IN","2011-01-06 16:45:56",1278,2839,7075,1108
+"RepLindaSanchez","S001156","Linda Sánchez",45,"F","Democrat","rep","CA","2011-06-06 16:50:45",1127,1377,5804,1012
+"RepLipinski","L000563","Daniel Lipinski",48,"M","Democrat","rep","IL","2012-12-13 17:03:06",571,446,1788,510
+"RepLloydDoggett","D000399","Lloyd Doggett",67,"M","Democrat","rep","TX","2010-06-09 23:53:50",1489,1445,9343,280
+"RepLoBiondo","L000554","Frank LoBiondo",68,"M","Republican","rep","NJ","2011-01-21 18:28:47",1263,1883,5448,195
+"RepLoisCapps","C001036","Lois Capps",76,"F","Democrat","rep","CA","2011-05-04 15:39:31",1160,1528,6343,825
+"RepLoisFrankel","F000462","Lois Frankel",66,"F","Democrat","rep","FL","2013-01-10 16:58:38",543,725,3180,354
+"RepLouBarletta","B001269","Lou Barletta",58,"M","Republican","rep","PA","2011-01-18 16:37:10",1266,1037,7274,1656
+"RepLouieGohmert","G000552","Louie Gohmert",60,"M","Republican","rep","TX","2009-02-26 20:14:28",1957,2632,29966,358
+"RepLowenthal","L000579","Alan Lowenthal",73,"M","Democrat","rep","CA","2013-01-02 18:11:33",551,909,3459,2164
+"RepLujanGrisham","L000580","Michelle Lujan Grisham",54,"F","Democrat","rep","NM","2013-01-04 20:46:03",549,986,3633,411
+"RepLukeMesser","M001189","Luke Messer",45,"M","Republican","rep","IN","2012-12-29 20:06:12",555,672,3344,621
+"RepLynnJenkins","J000290","Lynn Jenkins",51,"F","Republican","rep","KS","2009-01-28 15:54:00",1986,3930,13014,4616
+"RepMGriffith","G000568","H. Griffith",56,"M","Republican","rep","VA","2011-01-04 19:05:24",1280,708,6659,400
+"RepMaloney","M000087","Carolyn Maloney",68,"F","Democrat","rep","NY","2011-02-28 19:06:50",1225,948,7788,3304
+"RepMarciaFudge","F000455","Marcia Fudge",61,"F","Democrat","rep","OH","2010-06-08 17:54:06",1490,1761,11127,1146
+"RepMarcyKaptur","K000009","Marcy Kaptur",68,"F","Democrat","rep","OH","2012-05-15 16:57:51",783,418,2867,193
+"RepMarkMeadows","M001187","Mark Meadows",54,"M","Republican","rep","NC","2012-11-22 02:20:50",592,1171,4481,1571
+"RepMarkPocan","P000607","Mark Pocan",49,"M","Democrat","rep","WI","2013-02-21 22:59:04",501,1459,3565,695
+"RepMarkTakano","T000472","Mark Takano",53,"M","Democrat","rep","CA","2012-12-26 14:58:17",558,791,6138,1998
+"RepMarthaRoby","R000591","Martha Roby",37,"F","Republican","rep","AL","2010-12-08 16:56:29",1307,4421,11417,2064
+"RepMattSalmon","S000018","Matt Salmon",56,"M","Republican","rep","AZ","2013-01-09 00:05:57",544,1441,4830,2536
+"RepMcAllister","M001192","Vance McAllister",40,"M","Republican","rep","LA","2013-12-12 16:46:50",207,78,621,178
+"RepMcCarthyNY","M000309","Carolyn McCarthy",70,"F","Democrat","rep","NY","2010-06-01 17:15:15",1497,186,4923,57
+"RepMcClintock","M001177","Tom McClintock",58,"M","Republican","rep","CA","2009-06-24 00:21:07",1839,203,7988,0
+"RepMcGovern","M000312","James McGovern",54,"M","Democrat","rep","MA","2011-01-24 19:18:36",1260,2121,11025,486
+"RepMcKinley","M001180","David McKinley",67,"M","Republican","rep","WV","2011-01-19 22:29:00",1265,1932,6397,204
+"RepMcLeod","N000187","Gloria Negrete McLeod",72,"F","Democrat","rep","CA","2012-12-21 21:13:04",563,261,2368,226
+"RepMcNerney","M001166","Jerry McNerney",63,"M","Democrat","rep","CA","2011-10-05 13:52:58",1006,646,3897,386
+"RepMeehan","M001181","Patrick Meehan",58,"M","Republican","rep","PA","2011-02-07 21:19:34",1246,1801,6685,910
+"RepMichaelGrimm","G000569","Michael Grimm",44,"M","Republican","rep","NY","2011-01-07 18:08:22",1277,333,7486,100
+"RepMickMulvaney","M001182","Mick Mulvaney",46,"M","Republican","rep","SC","2011-01-19 20:18:39",1265,972,7924,5852
+"RepMikeCoffman","C001077","Mike Coffman",59,"M","Republican","rep","CO","2009-01-23 19:04:01",1991,1620,13005,1320
+"RepMikeHonda","H001034","Michael Honda",73,"M","Democrat","rep","CA","2008-10-03 20:18:31",2103,1279,13888,322
+"RepMikeMcIntyre","M000485","Mike McIntyre",57,"M","Democrat","rep","NC","2010-11-19 20:48:50",1326,1441,5135,146
+"RepMikeMichaud","M001149","Michael Michaud",59,"M","Democrat","rep","ME","2009-02-02 17:42:15",1981,550,8751,10
+"RepMikePompeo","P000602","Mike Pompeo",50,"M","Republican","rep","KS","2011-01-28 22:54:50",1256,2063,6564,1348
+"RepMikeQuigley","Q000023","Mike Quigley",55,"M","Democrat","rep","IL","2009-07-15 00:10:43",1818,3969,9685,1600
+"RepMikeRogers","R000572","Mike Rogers",51,"M","Republican","rep","MI","2010-06-17 17:32:16",1481,1185,7897,444
+"RepMikeRogersAL","R000575","Mike Rogers",56,"M","Republican","rep","AL","2009-04-21 17:43:28",1903,1866,10659,2846
+"RepMikeTurner","T000463","Michael Turner",54,"M","Republican","rep","OH","2009-06-26 21:15:07",1837,1417,5520,649
+"RepMoBrooks","B001274","Mo Brooks",60,"M","Republican","rep","AL","2011-01-12 14:46:14",1272,442,7141,1965
+"RepMullin","M001190","Markwayne Mullin",36,"M","Republican","rep","OK","2013-01-04 12:43:55",549,911,3799,1038
+"RepMurphyFL","M001191","Patrick Murphy",31,"M","Democrat","rep","FL","2013-01-28 17:56:38",525,881,3149,444
+"RepPaulBrounMD","B001262","Paul Broun",68,"M","Republican","rep","GA","2009-01-09 19:06:27",2005,1417,13423,2819
+"RepPaulCook","C001094","Paul Cook",71,"M","Republican","rep","CA","2013-01-09 17:43:44",544,452,2348,929
+"RepPaulRyan","R000570","Paul Ryan",44,"M","Republican","rep","WI","2009-01-12 21:31:25",2002,1287,383978,1
+"RepPaulTonko","T000469","Paul Tonko",65,"M","Democrat","rep","NY","2009-10-21 17:24:57",1720,3708,8070,1058
+"RepPerlmutter","P000593","Ed Perlmutter",61,"M","Democrat","rep","CO","2009-02-10 22:17:52",1973,976,9592,242
+"RepPeteGallego","G000572","Pete Gallego",52,"M","Democrat","rep","TX","2013-01-09 00:52:58",544,2122,3681,753
+"RepPeteKing","K000210","Peter King",70,"M","Republican","rep","NY","2008-12-21 02:49:32",2024,1817,17982,95
+"RepPeterDeFazio","D000191","Peter DeFazio",67,"M","Democrat","rep","OR","2011-02-14 20:20:20",1239,471,7943,739
+"RepPhilGingrey","G000550","Phil Gingrey",72,"M","Republican","rep","GA","2009-04-17 18:17:01",1907,1800,13778,1088
+"RepPittenger","P000606","Robert Pittenger",65,"M","Republican","rep","NC","2012-11-15 19:31:22",599,2312,2999,1183
+"RepRWilliams","W000816","Roger Williams",64,"M","Republican","rep","TX","2013-01-10 19:21:22",543,748,1738,429
+"RepReneeEllmers","E000291","Renee Ellmers",50,"F","Republican","rep","NC","2010-11-09 12:15:55",1336,4399,11624,3130
+"RepRibble","R000587","Reid Ribble",58,"M","Republican","rep","WI","2011-01-04 18:55:59",1280,671,6658,550
+"RepRichHudson","H001067","Richard Hudson",42,"M","Republican","rep","NC","2012-11-08 17:41:00",606,1621,3865,1067
+"RepRichNugent","N000185","Richard Nugent",63,"M","Republican","rep","FL","2011-01-10 17:48:59",1274,64,2615,172
+"RepRichardHanna","H001051","Richard Hanna",63,"M","Republican","rep","NY","2011-01-11 16:34:58",1273,2372,7280,414
+"RepRichardNeal","N000015","Richard Neal",65,"M","Democrat","rep","MA","2011-12-21 14:18:30",929,528,3025,15
+"RepRichmond","R000588","Cedric Richmond",40,"M","Democrat","rep","LA","2011-03-17 17:30:45",1208,1225,6089,860
+"RepRickCrawford","C001087","Eric Crawford",48,"M","Republican","rep","AR","2011-01-03 21:57:49",1281,1874,7364,1158
+"RepRickLarsen","L000560","Rick Larsen",49,"M","Democrat","rep","WA","2011-11-03 13:59:42",977,2319,3701,1198
+"RepRobBishop","B001250","Rob Bishop",63,"M","Republican","rep","UT","2010-05-25 16:02:26",1504,0,1088,95
+"RepRobertHurt","H001060","Robert Hurt",45,"M","Republican","rep","VA","2011-01-06 18:01:58",1278,1652,6721,527
+"RepRobinKelly","K000385","Robin Kelly",58,"F","Democrat","rep","IL","2013-04-09 19:02:01",454,553,1183,278
+"RepRonBarber","B001279","Ron Barber",68,"M","Democrat","rep","AZ","2012-06-19 00:10:53",748,1634,3580,233
+"RepRonKind","K000188","Ron Kind",51,"M","Democrat","rep","WI","2010-02-09 15:14:02",1609,777,6198,561
+"RepRoybalAllard","R000486","Lucille Roybal-Allard",73,"F","Democrat","rep","CA","2012-01-31 21:30:43",888,736,2745,483
+"RepSamFarr","F000030","Sam Farr",73,"M","Democrat","rep","CA","2010-06-22 15:30:19",1476,957,7288,687
+"RepSandyLevin","L000263","Sander Levin",82,"M","Democrat","rep","MI","2009-03-22 04:32:56",1933,1296,15428,13524
+"RepSanfordSC","S000051","Marshall Sanford",54,"M","Republican","rep","SC","2013-06-11 01:55:44",391,109,1321,220
+"RepSchneider","S001190","Bradley Schneider",52,"M","Democrat","rep","IL","2013-01-08 19:59:14",545,922,3061,664
+"RepSchrader","S001180","Kurt Schrader",62,"M","Democrat","rep","OR","2009-02-10 21:04:21",1973,1040,8513,662
+"RepScottPerry","P000605","Scott Perry",52,"M","Republican","rep","PA","2009-01-08 18:29:58",2006,1181,4081,1974
+"RepScottPeters","P000608","Scott Peters",56,"M","Democrat","rep","CA","2013-01-30 23:28:14",523,2611,3173,688
+"RepScottRigell","R000589","Edward Rigell",54,"M","Republican","rep","VA","2010-12-01 16:41:57",1314,3079,8077,2544
+"RepSeanDuffy","D000614","Sean Duffy",42,"M","Republican","rep","WI","2011-01-04 17:28:01",1280,1865,12594,2586
+"RepSeanMaloney","M001185","Sean Maloney",47,"M","Democrat","rep","NY","2013-01-09 01:00:33",544,1100,3083,331
+"RepSheaPorter","S001170","Carol Shea-Porter",61,"F","Democrat","rep","NH","2010-03-25 01:42:47",1565,534,3014,450
+"RepShelley","C001047","Shelley Capito",60,"F","Republican","rep","WV","2010-09-22 18:06:14",1384,1167,9315,916
+"RepShimkus","S000364","John Shimkus",56,"M","Republican","rep","IL","2008-07-25 17:01:16",2173,6666,11502,845
+"RepSinema","S001191","Kyrsten Sinema",38,"F","Democrat","rep","AZ","2013-01-11 20:31:03",542,3253,6901,704
+"RepSpeier","S001175","Jackie Speier",64,"F","Democrat","rep","CA","2009-03-17 17:02:38",1938,1881,12824,1002
+"RepStephenLynch","L000562","Stephen Lynch",59,"M","Democrat","rep","MA","2011-06-03 14:48:36",1130,645,4067,186
+"RepSteveChabot","C000266","Steve Chabot",61,"M","Republican","rep","OH","2011-01-13 15:03:08",1271,1222,8732,5772
+"RepSteveIsrael","I000057","Steve Israel",56,"M","Democrat","rep","NY","2009-02-03 20:45:30",1980,2134,13458,278
+"RepStevePearce","P000588","Stevan Pearce",66,"M","Republican","rep","NM","2011-01-07 19:44:44",1277,2348,6078,684
+"RepSteveStivers","S001187","Steve Stivers",49,"M","Republican","rep","OH","2010-11-03 05:57:36",1342,1469,7563,896
+"RepStutzman","S001188","Marlin Stutzman",37,"M","Republican","rep","IN","2010-11-04 16:00:16",1341,839,5107,221
+"RepSusanDavis","D000598","Susan Davis",70,"F","Democrat","rep","CA","2011-12-09 19:22:25",941,625,2165,64
+"RepSwalwell","S001193","Eric Swalwell",33,"M","Democrat","rep","CA","2012-11-11 20:26:01",603,2602,5564,2339
+"RepTedDeutch","D000610","Theodore Deutch",48,"M","Democrat","rep","FL","2010-04-27 19:51:54",1532,1512,8715,1298
+"RepTedYoho","Y000065","Ted Yoho",59,"M","Republican","rep","FL","2013-01-08 20:25:18",545,324,3030,327
+"RepTerriSewell","S001185","Terri Sewell",49,"F","Democrat","rep","AL","2011-09-27 20:47:50",1014,1200,6378,829
+"RepThomasMassie","M001184","Thomas Massie",43,"M","Republican","rep","KY","2012-11-28 02:33:14",586,1380,10201,529
+"RepThompson","T000460","Mike Thompson",63,"M","Democrat","rep","CA","2011-05-23 14:58:06",1141,667,2915,277
+"RepTierney","T000266","John Tierney",62,"M","Democrat","rep","MA","2011-10-03 16:10:47",1008,818,4914,223
+"RepTimGriffin","G000567","Tim Griffin",45,"M","Republican","rep","AR","2010-10-11 01:14:22",1365,6489,11308,3977
+"RepTimMurphy","M001151","Tim Murphy",61,"M","Republican","rep","PA","2010-02-26 15:45:58",1592,1406,6681,449
+"RepTimRyan","R000577","Tim Ryan",41,"M","Democrat","rep","OH","2008-02-14 21:57:32",2335,1699,18747,1329
+"RepTimWalz","W000799","Timothy Walz",50,"M","Democrat","rep","MN","2013-03-12 20:27:45",482,441,1678,740
+"RepTipton","T000470","Scott Tipton",57,"M","Republican","rep","CO","2011-01-25 20:01:25",1259,993,6456,1120
+"RepToddYoung","Y000064","Todd Young",41,"M","Republican","rep","IN","2011-01-04 22:35:16",1280,2035,7091,422
+"RepTomCotton","C001095","Tom Cotton",37,"M","Republican","rep","AR","2012-11-24 19:33:10",590,1411,5962,322
+"RepTomGraves","G000560","Tom Graves",44,"M","Republican","rep","GA","2010-09-13 17:36:23",1393,2173,9402,2781
+"RepTomMarino","M001179","Tom Marino",61,"M","Republican","rep","PA","2011-01-19 19:11:27",1265,1539,6859,749
+"RepTomPrice","P000591","Tom Price",59,"M","Republican","rep","GA","2007-06-04 19:24:39",2590,4272,22900,3099
+"RepTomReed","R000585","Tom Reed",42,"M","Republican","rep","NY","2011-02-16 00:03:43",1237,602,5681,125
+"RepTomRice","R000597","Tom Rice",56,"M","Republican","rep","SC","2013-01-03 17:35:05",550,350,3029,300
+"RepTrentFranks","F000448","Trent Franks",57,"M","Republican","rep","AZ","2009-03-16 21:27:49",1939,980,13327,1207
+"RepVeasey","V000131","Marc Veasey",43,"M","Democrat","rep","TX","2013-01-09 15:49:27",544,780,3360,2264
+"RepVisclosky","V000108","Peter Visclosky",64,"M","Democrat","rep","IN","2010-09-22 21:24:46",1384,1207,3984,856
+"RepWOLFPress","W000672","Frank Wolf",75,"M","Republican","rep","VA","2011-01-12 20:12:13",1272,321,4999,379
+"RepWalberg","W000798","Tim Walberg",63,"M","Republican","rep","MI","2011-01-13 20:26:26",1271,1405,6877,374
+"RepWalorski","W000813","Jackie Walorski",50,"F","Republican","rep","IN","2013-01-06 15:41:40",547,1532,3268,686
+"RepWalterJones","J000255","Walter Jones",71,"M","Republican","rep","NC","2009-03-26 15:50:58",1929,1083,10826,133
+"RepWebster","W000806","Daniel Webster",65,"M","Republican","rep","FL","2011-04-13 13:47:05",1181,1703,4688,326
+"RepWestmoreland","W000796","Lynn Westmoreland",64,"M","Republican","rep","GA","2010-04-26 17:19:38",1533,1897,7177,490
+"RepWilson","W000808","Frederica Wilson",71,"F","Democrat","rep","FL","2011-01-04 17:08:09",1280,2150,7661,1447
+"RepZoeLofgren","L000397","Zoe Lofgren",66,"F","Democrat","rep","CA","2011-03-17 21:06:21",1208,843,5121,44
+"Rep_Albio_Sires","S001165","Albio Sires",63,"M","Democrat","rep","NJ","2013-11-14 04:01:58",235,1,17,6
+"Rep_DevinNunes","N000181","Devin Nunes",40,"M","Republican","rep","CA","2011-07-29 21:40:22",1074,2,427,0
+"Rep_Hunter","H001048","Duncan Hunter",37,"M","Republican","rep","CA","2013-03-26 21:04:26",468,211,2686,236
+"Rep_JaniceHahn","H001063","Janice Hahn",62,"F","Democrat","rep","CA","2011-07-21 19:22:22",1082,1645,5406,878
+"Rep_Southerland","S001186","Steve Southerland",48,"M","Republican","rep","FL","2011-01-13 16:28:13",1271,624,7896,611
+"Rep_SteveWomack","W000809","Steve Womack",57,"M","Republican","rep","AR","2011-01-05 18:53:03",1279,2403,7581,1070
+"RepraulGrijalva","G000551","Raúl Grijalva",66,"M","Democrat","rep","AZ","2009-04-03 16:55:32",1921,1717,12033,271
+"RobPortman","P000449","Robert Portman",58,"M","Republican","sen","OH","2009-01-12 20:56:42",2002,3546,39241,1631
+"RobWittman","W000804","Robert Wittman",55,"M","Republican","rep","VA","2008-07-08 18:25:49",2190,4199,13748,7145
+"Robert_Aderholt","A000055","Robert Aderholt",48,"M","Republican","rep","AL","2009-09-22 21:16:37",1749,919,7516,65
+"RodneyDavis","D000619","Rodney Davis",44,"M","Republican","rep","IL","2012-12-06 14:20:04",578,1541,3615,516
+"RonWyden","W000779","Ron Wyden",65,"M","Democrat","sen","OR","2011-02-10 16:08:15",1243,1400,30040,291
+"RosLehtinen","R000435","Ileana Ros-Lehtinen",62,"F","Republican","rep","FL","2008-04-01 14:59:30",2288,13764,57019,1426
+"RosaDeLauro","D000216","Rosa DeLauro",71,"F","Democrat","rep","CT","2010-05-05 18:11:32",1524,2881,12331,1641
+"RoyBlunt","B000575","Roy Blunt",64,"M","Republican","sen","MO","2009-02-19 02:58:03",1964,4078,31553,6763
+"SamsPressShop","J000174","Sam Johnson",83,"M","Republican","rep","TX","2011-02-08 19:01:18",1245,401,3078,419
+"SanfordBishop","B000490","Sanford Bishop",67,"M","Democrat","rep","GA","2011-02-09 00:23:10",1244,894,6270,620
+"SaxbyChambliss","C000286","Saxby Chambliss",70,"M","Republican","sen","GA","2012-03-27 14:03:27",832,795,11212,197
+"SenAlexander","A000360","Lamar Alexander",74,"M","Republican","sen","TN","2009-09-23 13:58:50",1748,1089,22604,393
+"SenAngusKing","K000383","Angus King",70,"M","Independent","sen","ME","2013-01-07 14:52:27",546,926,7591,307
+"SenBennetCo","B001267","Michael Bennet",49,"M","Democrat","sen","CO","2010-12-08 16:29:29",1307,853,18015,59
+"SenBillNelson","N000032","Bill Nelson",71,"M","Democrat","sen","FL","2009-02-11 15:44:25",1972,486,37040,100
+"SenBlumenthal","B001277","Richard Blumenthal",68,"M","Democrat","sen","CT","2011-04-06 17:13:53",1188,2833,19334,634
+"SenBobCasey","C001070","Robert Casey",54,"M","Democrat","sen","PA","2010-07-27 18:38:20",1441,1369,20132,310
+"SenBobCorker","C001071","Bob Corker",61,"M","Republican","sen","TN","2009-09-11 03:56:08",1760,1755,30357,435
+"SenBookerOfc","B001288","Cory Booker",45,"M","Democrat","sen","NJ","2013-10-31 19:02:04",249,412,1378,54
+"SenBrianSchatz","S001194","Brian Schatz",41,"M","Democrat","sen","HI","2013-03-12 14:23:20",482,193,3153,1352
+"SenCarlLevin","L000261","Carl Levin",80,"M","Democrat","sen","MI","2009-12-01 01:44:01",1679,660,19015,2
+"SenCoonsOffice","C001088","Chris Coons",50,"M","Democrat","sen","DE","2011-12-13 04:02:30",937,1965,2841,111
+"SenDanCoats","C000542","Daniel Coats",71,"M","Republican","sen","IN","2010-11-05 15:56:49",1340,2347,17300,587
+"SenDeanHeller","H001041","Dean Heller",54,"M","Republican","sen","NV","2011-03-14 18:31:08",1211,2482,12990,4229
+"SenDonnelly","D000607","Joe Donnelly",58,"M","Democrat","sen","IN","2010-11-16 22:24:01",1329,1410,12546,262
+"SenFeinstein","F000062","Dianne Feinstein",81,"F","Democrat","sen","CA","2012-01-27 23:06:59",892,1238,36151,127
+"SenJackReed","R000122","John Reed",64,"M","Democrat","sen","RI","2012-02-08 15:24:01",880,2065,10837,11
+"SenJeffMerkley","M001176","Jeff Merkley",57,"M","Democrat","sen","OR","2009-04-06 13:38:39",1918,1567,29062,127
+"SenJohnBarrasso","B001261","John Barrasso",62,"M","Republican","sen","WY","2010-10-13 14:49:08",1363,1909,16135,427
+"SenJohnHoeven","H001061","John Hoeven",57,"M","Republican","sen","ND","2011-09-30 17:55:30",1011,621,8559,397
+"SenJohnMcCain","M000303","John McCain",77,"M","Republican","sen","AZ","2009-01-23 13:42:31",1991,6884,1892108,319
+"SenJohnThune","T000250","John Thune",53,"M","Republican","sen","SD","2011-05-10 16:41:48",1154,1523,27251,304
+"SenJohnsonSD","J000177","Tim Johnson",67,"M","Democrat","sen","SD","2011-01-28 21:37:51",1256,1277,11318,52
+"SenKaineOffice","K000384","Timothy Kaine",56,"M","Democrat","sen","VA","2013-03-14 20:33:03",480,359,2403,122
+"SenLandrieu","L000550","Mary Landrieu",58,"F","Democrat","sen","LA","2011-11-15 22:40:40",965,1947,16143,239
+"SenMarkPryor","P000590","Mark Pryor",51,"M","Democrat","sen","AR","2011-12-02 14:28:37",948,1644,13734,281
+"SenMikeLee","L000577","Mike Lee",43,"M","Republican","sen","UT","2009-11-09 22:47:47",1701,2798,136616,2320
+"SenOrrinHatch","H000338","Orrin Hatch",80,"M","Republican","sen","UT","2011-03-08 18:04:18",1217,1637,10636,30
+"SenPatRoberts","R000307","Pat Roberts",78,"M","Republican","sen","KS","2009-09-18 19:34:56",1753,997,13387,675
+"SenRandPaul","P000603","Rand Paul",51,"M","Republican","sen","KY","2010-11-17 23:52:35",1328,2323,453838,325
+"SenRockefeller","R000361","John Rockefeller",77,"M","Democrat","sen","WV","2011-03-28 18:35:10",1197,3194,16606,645
+"SenRonJohnson","J000293","Ron Johnson",59,"M","Republican","sen","WI","2011-01-04 00:25:27",1280,1050,23774,86
+"SenRubioPress","R000595","Marco Rubio",43,"M","Republican","sen","FL","2010-12-23 21:22:47",1292,1625,15985,97
+"SenSanders","S000033","Bernard Sanders",72,"M","Independent","sen","VT","2009-04-07 13:02:35",1917,9809,219912,1505
+"SenShelby","S000320","Richard Shelby",80,"M","Republican","sen","AL","2009-02-17 17:53:43",1966,203,15371,143
+"SenSherrodBrown","B000944","Sherrod Brown",61,"M","Democrat","sen","OH","2009-06-01 16:07:45",1862,1310,40165,42
+"SenTedCruz","C001098","Ted Cruz",43,"M","Republican","sen","TX","2013-01-09 18:11:37",544,2660,326158,7786
+"SenThadCochran","C000567","Thad Cochran",76,"M","Republican","sen","MS","2012-04-16 22:33:23",812,847,11743,467
+"SenToomey","T000461","Patrick Toomey",52,"M","Republican","sen","PA","2010-11-29 22:32:09",1316,2464,30429,771
+"SenWalshOffice","W000818","John Walsh",53,"M","Democrat","sen","MT","2014-02-26 13:30:47",131,145,751,362
+"SenWarren","W000817","Elizabeth Warren",65,"F","Democrat","sen","MA","2012-11-25 15:14:27",589,265,83366,241
+"SenWhitehouse","W000802","Sheldon Whitehouse",58,"M","Democrat","sen","RI","2011-01-25 01:52:03",1259,1660,18052,1379
+"Sen_JoeManchin","M001183","Joe Manchin",66,"M","Democrat","sen","WV","2011-01-05 14:13:33",1279,2128,23412,614
+"SenatorBaldwin","B001230","Tammy Baldwin",52,"F","Democrat","sen","WI","2013-01-09 18:29:44",544,2024,9713,540
+"SenatorBarb","M000702","Barbara Mikulski",78,"F","Democrat","sen","MD","2010-04-12 20:06:38",1547,3069,30132,8
+"SenatorBegich","B001265","Mark Begich",52,"M","Democrat","sen","AK","2009-10-20 18:47:19",1721,2585,18906,491
+"SenatorBoxer","B000711","Barbara Boxer",73,"F","Democrat","sen","CA","2008-07-15 16:02:13",2183,1444,47935,104
+"SenatorBurr","B001135","Richard Burr",58,"M","Republican","sen","NC","2009-02-18 01:53:03",1965,1409,27607,3371
+"SenatorCardin","C000141","Benjamin Cardin",70,"M","Democrat","sen","MD","2010-01-27 22:03:53",1622,3508,24429,220
+"SenatorCarper","C000174","Thomas Carper",67,"M","Democrat","sen","DE","2011-02-09 19:46:42",1244,3019,12193,487
+"SenatorCollins","C001035","Susan Collins",61,"F","Republican","sen","ME","2009-01-29 18:56:59",1985,1108,31350,807
+"SenatorDurbin","D000563","Richard Durbin",69,"M","Democrat","sen","IL","2011-02-04 15:50:42",1249,2989,45664,1581
+"SenatorEnzi","E000285","Michael Enzi",70,"M","Republican","sen","WY","2011-05-02 15:26:39",1162,1133,8960,471
+"SenatorFischer","F000463","Deb Fischer",63,"F","Republican","sen","NE","2013-01-08 16:49:07",545,903,8017,115
+"SenatorHagan","H001049","Kay Hagan",61,"F","Democrat","sen","NC","2009-09-14 14:44:07",1757,2671,25492,187
+"SenatorHarkin","H000206","Thomas Harkin",74,"M","Democrat","sen","IA","2010-02-19 18:47:20",1599,2332,20664,170
+"SenatorHeitkamp","H001069","Heidi Heitkamp",58,"F","Democrat","sen","ND","2013-01-04 17:57:48",549,2243,8828,330
+"SenatorIsakson","I000055","John Isakson",69,"M","Republican","sen","GA","2009-09-29 20:09:30",1742,556,16321,375
+"SenatorKirk","K000360","Mark Kirk",54,"M","Republican","sen","IL","2010-11-03 17:51:13",1342,3218,28950,1761
+"SenatorLeahy","L000174","Patrick Leahy",74,"M","Democrat","sen","VT","2011-01-25 18:20:07",1259,3398,22896,59
+"SenatorMenendez","M000639","Robert Menéndez",60,"M","Democrat","sen","NJ","2009-01-06 21:01:12",2008,3512,40756,571
+"SenatorReid","R000146","Harry Reid",74,"M","Democrat","sen","NV","2008-10-15 19:42:08",2091,2733,215278,153
+"SenatorRisch","R000584","James Risch",71,"M","Republican","sen","ID","2013-01-16 18:58:23",537,239,6611,33
+"SenatorSessions","S001141","Jefferson Sessions",67,"M","Republican","sen","AL","2009-06-17 14:24:08",1846,1552,31710,103
+"SenatorShaheen","S001181","Jeanne Shaheen",67,"F","Democrat","sen","NH","2010-01-28 15:22:44",1621,2809,18013,5638
+"SenatorTimScott","S001184","Tim Scott",48,"M","Republican","sen","SC","2010-11-19 20:34:30",1326,2160,63412,2163
+"SenatorTomUdall","U000039","Tom Udall",66,"M","Democrat","sen","NM","2009-07-28 06:10:29",1805,1668,15959,5
+"SenatorWicker","W000437","Roger Wicker",63,"M","Republican","sen","MS","2011-03-11 14:59:01",1214,1409,13077,282
+"SpeakerBoehner","B000589","John Boehner",64,"M","Republican","rep","OH","2007-07-25 14:42:33",2539,14556,658610,9959
+"StabenowPress","S000770","Debbie Stabenow",64,"F","Democrat","sen","MI","2013-03-19 19:05:11",475,0,24,0
+"SteveDaines","D000618","Steve Daines",51,"M","Republican","rep","MT","2007-12-30 05:52:03",2381,939,3001,455
+"SteveKingIA","K000362","Steve King",65,"M","Republican","rep","IA","2009-06-17 21:09:41",1846,888,21189,66
+"SteveScalise","S001176","Steve Scalise",48,"M","Republican","rep","LA","2013-02-22 18:10:47",500,1431,5434,3245
+"SteveWorks4You","S000937","Steve Stockman",57,"M","Republican","rep","TX","2013-01-04 01:39:09",549,8671,16858,1447
+"SusanWBrooks","B001284","Susan Brooks",53,"F","Republican","rep","IN","2013-01-09 15:30:38",544,620,3709,261
+"TGowdySC","G000566","Trey Gowdy",49,"M","Republican","rep","SC","2011-01-12 16:57:04",1272,1053,92210,365
+"TXRandy14","W000814","Randy Weber",61,"M","Republican","rep","TX","2013-01-03 15:30:06",550,940,2848,229
+"TesterPress","T000464","Jon Tester",57,"M","Democrat","sen","MT",NA,NA,NA,NA,NA
+"TiberiPress","T000462","Patrick Tiberi",51,"M","Republican","rep","OH","2012-10-29 15:02:02",616,1124,1422,449
+"TimBishopNY","B001242","Timothy Bishop",64,"M","Democrat","rep","NY","2010-06-09 22:22:18",1489,1333,5406,2318
+"ToddRokita","R000592","Todd Rokita",44,"M","Republican","rep","IN","2008-11-21 20:10:51",2054,4110,9672,3338
+"TomCoburn","C000560","Thomas Coburn",66,"M","Republican","sen","OK","2008-12-18 15:32:08",2027,1285,77875,420
+"TomColeOK04","C001053","Tom Cole",65,"M","Republican","rep","OK","2009-03-06 21:54:25",1949,404,5903,79
+"TomLatham","L000111","Tom Latham",66,"M","Republican","rep","IA","2007-11-09 16:09:46",2432,1235,10348,1226
+"TomRooney","R000583","Thomas Rooney",43,"M","Republican","rep","FL","2009-03-12 15:44:41",1943,2562,13007,4128
+"TulsiPress","G000571","Tulsi Gabbard",33,"F","Democrat","rep","HI","2013-01-05 22:57:50",548,730,4859,572
+"USRepDavidJolly","J000296","David Jolly",41,"M","Republican","rep","FL","2014-05-07 12:35:31",61,117,203,42
+"USRepKCastor","C001066","Kathy Castor",47,"F","Democrat","rep","FL","2013-09-18 20:03:57",292,248,693,238
+"USRepKeating","K000375","William Keating",61,"M","Democrat","rep","MA","2011-01-01 23:58:47",1283,670,4492,586
+"USRepLong","L000576","Billy Long",58,"M","Republican","rep","MO","2013-05-20 15:02:21",413,1208,1460,549
+"USRepMikeDoyle","D000482","Michael Doyle",60,"M","Democrat","rep","PA","2009-05-11 13:22:08",1883,426,6804,33
+"USRepRHinojosa","H000636","Rubén Hinojosa",73,"M","Democrat","rep","TX","2011-01-18 18:13:06",1266,1204,5855,436
+"USRepRickNolan","N000127","Richard Nolan",70,"M","Democrat","rep","MN","2013-01-02 17:51:28",551,1069,3143,801
+"USRepRodney","F000372","Rodney Frelinghuysen",68,"M","Republican","rep","NJ","2013-04-26 14:05:13",437,179,1053,94
+"VernBuchanan","B001260","Vern Buchanan",63,"M","Republican","rep","FL","2009-02-09 21:05:19",1974,1639,15022,10961
+"VirginiaFoxx","F000450","Virginia Foxx",71,"F","Republican","rep","NC","2008-09-12 13:30:07",2124,2176,12018,1381
+"WaxmanClimate","W000215","Henry Waxman",74,"M","Democrat","rep","CA","2012-08-27 20:31:16",679,754,4253,310
+"WhipHoyer","H000874","Steny Hoyer",75,"M","Democrat","rep","MD","2009-02-26 14:13:01",1957,6197,44909,3845
+"YvetteClarke","C001067","Yvette Clarke",49,"F","Democrat","rep","NY","2011-01-20 20:14:21",1264,3246,8080,3649

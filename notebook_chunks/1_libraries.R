@@ -4,6 +4,7 @@ require("data.table")
 require("dplyr")
 require("twitteR")
 require("ggplot2")
+library("scales")
 if (!require("graphZoo")) {
   require("devtools")
   install_github("morpionZ/graphZoo")

@@ -53,6 +53,7 @@ if (file.exists("data/legislator.csv")) {
   users <- lookupUsers(legislator$twitter)
   
   twitter.table <- data.table(twitter = names(users),
+                              joined = sapply(users, function(user) as.character(user$created)),
                               days = sapply(users, function(user) Sys.Date() - as.Date(user$created)),
                               tweets = sapply(users, function(user) user$statusesCount),
                               followers = sapply(users, function(user) user$followersCount),

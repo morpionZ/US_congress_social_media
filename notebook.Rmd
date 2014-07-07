@@ -60,3 +60,12 @@ source("notebook_chunks/6_women_vs_men.R")
 ```
 
 [Back to top]("#")
+
+---
+
+# Joining time
+```{r, 'joining.time', cache=TRUE, echo=FALSE, message=FALSE, warning=FALSE, fig.align='center', fig.width=10, fig.height=7, out.width=500, out.height=500}
+source("notebook_chunks/7_joining_time.R")
+```
+
+[Back to top]("#")
